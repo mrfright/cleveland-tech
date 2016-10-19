@@ -1,6 +1,6 @@
 # Cleveland Tech
 
-List of local Cleveland tech companies and resources
+List of local Cleveland tech companies and resources, in absolutely no order.
 
 ## Cleveland Companies
 
@@ -206,8 +206,6 @@ List of local Cleveland tech companies and resources
 * [Transportation Management Software](https://www.tmwsystems.com/)
 
 ## Coding Bootcamps
-
-Bootcamps, usually for adults with zero programming experience to learn it to get a job in tech.
 
 * [WeCanCodeIT](https://wecancodeit.org/) 
 * [Cleveland Codes](http://www.clevelandcodes.org/)
