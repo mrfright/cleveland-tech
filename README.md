@@ -260,6 +260,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Cleveland Pinball and Arcade Show](http://clevelandpinballshow.com/Homepage)
 * [Information Security Summit](https://www.informationsecuritysummit.org/)
 * [BizConCle](http://www.bizconcle.com/)
+* [Lincoln MINES](http://www.lincolnmines.com/) - Minecraft event for kids and parents on learning science and tech.
 
 ## Job Search Sites
 
