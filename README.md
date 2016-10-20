@@ -230,6 +230,11 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [Hamfest Association of Cleveland](http://www.hac.org/)
 * [Cleveland Game Developers](http://clevelandgamedevs.com/)
+* [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
+* [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
+* [Cleveland Big Data & Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
+* [Cleveland Cocoaheads (iOS & Mac development)](https://www.meetup.com/Cleveland-CocoaHeads/)
+* [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
 
 ## Events
 
