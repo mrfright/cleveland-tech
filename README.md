@@ -60,7 +60,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Excellware](http://www.excellware.com/) 
 * [Elite Business Solutions](http://www.elitebusinesssolutions.com/) 
 * [Oatey](http://www.oatey.com/) 
-* [D-I](http://d-i.co/) 
+* [The Refinery](http://the-refinery.io/) 
 * [Innis Maggiore](http://www.innismaggiore.com/) 
 * [Arhaus](http://www.arhaus.com/)
 * [BlueBridge Networks](http://www.bluebridgenetworks.com/)
