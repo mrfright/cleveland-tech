@@ -140,7 +140,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [insivia](http://www.insivia.com/)
 * [Secure State](https://www.securestate.com/)
 * [MRI Software](http://www.mrisoftware.com/)
-* [Dialog Tech](http://www.dialogtech.com/)
+* [DialogTech](http://www.dialogtech.com/)
 * [Realeflow](http://realeflow.com/v2/)
 * [briteskies](http://www.briteskies.com/)
 * [7signal](http://7signal.com/)
