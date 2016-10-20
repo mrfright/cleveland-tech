@@ -9,6 +9,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Expand Interactive](http://www.expandinteractive.com/)
 * [Foundation Software](http://www.foundationsoft.com/)
 * [Explorys](http://explorys.com/) 
+* [Revenue Conduit](http://revenueconduit.com/) 
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
 * [Avantia](http://www.eavantia.com/home) 
 * [ClickShake games](http://www.clickshakegames.com/)
