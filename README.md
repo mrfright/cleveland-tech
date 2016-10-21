@@ -238,6 +238,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
 * [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
 * [Cleveland Javascript Group](https://www.meetup.com/Cleveland-Javascript/)
+* [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
 
 ## Events
 
