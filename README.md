@@ -301,6 +301,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Robert Half Tech](https://www.roberthalf.com/technology)
 * [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
 * [USAJOBS](https://www.usajobs.gov/Search/?keyword=&Location=Cleveland%2C+Ohio&AutoCompleteSelected=true) - government job search site, including Cleveland NASA jobs
+* [untapt](https://www.untapt.com/)
 
 ## Business Development
 
@@ -338,7 +339,6 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [LanceList](http://www.lancelist.com/#)
 * [Meeet](http://beta.meeet.co/)
 * [Zen99](https://zen99.co/)
-* [untapt](https://www.untapt.com/#/dashboard)
 * [upwork](https://www.upwork.com/)
 
 ## Other Links
@@ -351,4 +351,4 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
 * [GeekCLE](http://geekcle.com/)
-* [How to make Pittburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
+* [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
