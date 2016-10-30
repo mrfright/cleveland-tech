@@ -208,6 +208,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [OnBase](https://www.onbase.com/) by Hyland Software
 * [FormFire](https://www.formfire.com/)
 * [Agility Business Solutions](http://www.agilitybiz.net/)
+* [CodeRed](https://www.coderedcorp.com/)
 
 ## Coding Bootcamps
 
@@ -341,6 +342,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Meeet](http://beta.meeet.co/)
 * [Zen99](https://zen99.co/)
 * [upwork](https://www.upwork.com/)
+* [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 
 ## Other Links
 
