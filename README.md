@@ -209,6 +209,8 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [FormFire](https://www.formfire.com/)
 * [Agility Business Solutions](http://www.agilitybiz.net/)
 * [CodeRed](https://www.coderedcorp.com/)
+* [Allied Health Media](http://www.alliedhealthmedia.com/)
+* [mv|designlabs](https://www.mvdesignlabs.com/)
 
 ## Coding Bootcamps
 
