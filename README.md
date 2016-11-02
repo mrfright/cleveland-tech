@@ -211,6 +211,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [CodeRed](https://www.coderedcorp.com/)
 * [Allied Health Media](http://www.alliedhealthmedia.com/)
 * [mv|designlabs](https://www.mvdesignlabs.com/)
+* [Webcollage](http://www.webcollage.com/)
 
 ## Coding Bootcamps
 
