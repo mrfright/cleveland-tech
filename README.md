@@ -213,6 +213,8 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [mv|designlabs](https://www.mvdesignlabs.com/)
 * [Webcollage](http://www.webcollage.com/)
 * [My1HR](https://www.my1hr.com/)
+* [Skookum Arts](http://skookum-arts.com/)
+* [GamesInCle](http://www.gamesincle.com/)
 
 ## Coding Bootcamps
 
