@@ -215,6 +215,9 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [My1HR](https://www.my1hr.com/)
 * [Skookum Arts](http://skookum-arts.com/)
 * [GamesInCle](http://www.gamesincle.com/)
+* [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
+* [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
+* [InterDesign](http://www.interdesignusa.com/), job posts on [Indeed](http://www.indeed.com/cmp/Interdesign,-Inc.)
 
 ## Coding Bootcamps
 
@@ -279,6 +282,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Information Security Summit](https://www.informationsecuritysummit.org/)
 * [BizConCle](http://www.bizconcle.com/)
 * [Lincoln MINES](http://www.lincolnmines.com/) - Minecraft event for kids and parents on learning science and tech.
+* [OHI/O](http://hack.osu.edu/) - OSU hackathon
 
 ## Job Search Sites
 
