@@ -314,6 +314,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
 * [USAJOBS](https://www.usajobs.gov/Search/?keyword=&Location=Cleveland%2C+Ohio&AutoCompleteSelected=true) - government job search site, including Cleveland NASA jobs
 * [untapt](https://www.untapt.com/)
+* [JobSpade](https://www.jobspade.com/)
 
 ## Business Development
 
