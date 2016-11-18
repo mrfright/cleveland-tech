@@ -218,6 +218,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [InterDesign](http://www.interdesignusa.com/), job posts on [Indeed](http://www.indeed.com/cmp/Interdesign,-Inc.)
+* [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
 
 ## Coding Bootcamps
 
