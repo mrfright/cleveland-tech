@@ -367,3 +367,4 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
+* [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote
