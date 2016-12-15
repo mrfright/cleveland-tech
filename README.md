@@ -219,6 +219,8 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [InterDesign](http://www.interdesignusa.com/), job posts on [Indeed](http://www.indeed.com/cmp/Interdesign,-Inc.)
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
+* [Fast Switch](http://www.fastswitch.com/fsl_new_belong_earn.html)
+* [Gestalt IT](http://gestaltit.com/)
 
 ## Coding Bootcamps
 
@@ -284,6 +286,9 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [BizConCle](http://www.bizconcle.com/)
 * [Lincoln MINES](http://www.lincolnmines.com/) - Minecraft event for kids and parents on learning science and tech.
 * [OHI/O](http://hack.osu.edu/) - OSU hackathon
+* [Tech Field Day](http://techfieldday.com/)
+* [Startup Scaleup](http://www.startupscaleup.org/)
+* [CoolTech Challenge](http://www.cooltechchallenge.org/)
 
 ## Job Search Sites
 
@@ -368,3 +373,5 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote
+* [Best Places to Live for Tech Entrepreneurs](http://www.techinsurance.com/resources/best-places-to-live/cleveland-oh/)
+* [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh)
