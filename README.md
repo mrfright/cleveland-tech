@@ -221,6 +221,9 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
 * [Fast Switch](http://www.fastswitch.com/fsl_new_belong_earn.html)
 * [Gestalt IT](http://gestaltit.com/)
+* [42connect](https://www.42connect.com/)
+* [33 Mile Radius ](https://www.33mileradius.com/)
+* [WTWH Media](http://www.wtwhmedia.com/about/)
 
 ## Coding Bootcamps
 
