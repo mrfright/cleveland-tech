@@ -1,6 +1,6 @@
 # Cleveland Tech
 
-List of local Cleveland tech companies and resources, in absolutely no order.
+List of local Cleveland tech companies and resources, mostly in alphabetical order.
 
 ## Cleveland Companies
 
