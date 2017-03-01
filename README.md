@@ -126,6 +126,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Lazorpoint](http://www.lazorpoint.com/)
 * [LDR Interactive](http://ldrinteractive.com/index.php)
 * [Level Seven](http://www.lvlsvn.com/)
+* [LightSpeed Hosting](https://lightspeedhosting.com/)
 * [LineStream](http://www.linestream.com/default.aspx)
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
 * [Lockheed Martin](http://www.lockheedmartin.com/us/mfc/siteinformation/akron.html)
@@ -181,7 +182,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [quo](https://www.rentquo.com/)
 * [Realeflow](http://realeflow.com/v2/)
 * [recess creative](http://www.recesscreative.com/)
-* [remesh](http://remesh.co)
+* [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
@@ -254,6 +255,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Codes](http://www.clevelandcodes.org/)
 * [Software Craftmanship Guild](http://www.swcguild.com/)
 * [Tech Elevator](http://www.techelevator.com/)
+* [Case Western Reserve University Bootcamp](https://codingbootcamp.case.edu/)
 
 ## Groups
 
@@ -286,7 +288,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [Height Code Hop](http://heights-code-hop.org/)
 * [PyOhio](http://www.pyohio.org/)
-* [The Industry Digital Summit](http://indsum.com/)
+* [The Industry Digital Summit](http://indsum.com/), put on by [Product Collective](http://productcollective.com/)
 * [TechPint](http://www.techpint.org/)
 * [NOTACON](http://www.notacon.org/)
 * [Rockathon](http://www.rockathoncleveland.com/)
@@ -320,6 +322,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [CodeMash](http://www.codemash.org/)
   * [CodeMash CTF](codemashctf.com) - their [Twitter](https://twitter.com/CodeMashCTF)
 * [Medical Innovation Competition](http://www.medicalinnovationcompetition.org/)
+* [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 
 ## Job Search Sites
 
@@ -356,6 +359,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [AngelList Cleveland Startup Jobs](https://angel.co/cleveland/jobs)
 * [whoishiring.io](https://whoishiring.io/search/41.498/-81.708/9/)
 * [WorkinTech.io](http://workintech.io/)
+* [FirstDevJob](https://firstdevjob.com/)
 
 ## Business Development
 
@@ -376,7 +380,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [StartMart](http://startmart.us/)
 * [Technology for Ohio's Tomorrow](http://tech4ohio.org/)
 * [Cleveland Health-Tech Corridor](http://www.healthtechcorridor.com/)
-* [OHTec](http://ohtec.org/)
+* [OHTec](http://ohtec.org/), their [Twitter](https://twitter.com/OHTecOnline)
 * [GLIDE](http://www.glideit.org/)
 * [BioEnterprise](http://www.bioenterprise.com/)
 * [getIThere](https://www.getithere.net/)
@@ -388,6 +392,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Ohio Third Frontier](https://development.ohio.gov/bs_thirdfrontier/)
 * [The Medical Capital](http://www.themedicalcapital.com/)
 * [Startup Lakewood](http://startuplakewood.com/)
+* [Greater Cleveland Partnership](https://www.gcpartnership.com/)
 
 ## Freelance
 
@@ -420,3 +425,4 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Tech News](https://twitter.com/CleTechNews) - [their site](http://clevelandtechnews.com/), seems inactive for a few months
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
 * [#clejobs](https://twitter.com/hashtag/clejobs?f=tweets&vertical=default&src=hash)
+* [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
