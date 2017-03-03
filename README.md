@@ -25,6 +25,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Barkeep4U](http://www.barkeep4u.com/)
 * [because I said I would](http://becauseisaidiwould.com/)
 * [Beegit](https://www.beegit.com/)
+* [Benesch 3D Printing Group ](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
 * [Big River](http://www.gobigriver.com/)
 * [Binary Defense Systems](https://www.binarydefense.com/)
 * [Biolectrics](http://biolectrics.net/)
@@ -96,6 +97,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Gestalt IT](http://gestaltit.com/)
 * [GroundBooth](http://www.groundbooth.com/about/)
 * [Groupmatics](http://www.groupmatics.com/)
+* [Growbots](https://www.growbots.com/about#joboffers)
 * [H5 Data Centers](http://h5datacenters.com/)
 * [Handelabra Games](http://handelabra.com/about)
 * [Hatch](http://hatch.us.com/)
@@ -170,7 +172,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Parker Hannifin](http://parker.com)
 * [PCRecruiter](https://www.pcrecruiter.net/) - by Main Sequence Technology
 * [Pervasive Path](http://pervasivepath.com/)
-* [Phenom](http://www.phenom.co/)
+* [Phenom](http://www.phenom.co/) - possibly no longer active, that site is an empty Heroku app and their Facebook page hasn't been active for almost a year
 * [Philips Medical](http://www.healthcare.philips.com/us_en/)
 * [pixsi](http://www.pixsi.com/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
