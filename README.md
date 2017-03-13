@@ -354,6 +354,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Medical Innovation Competition](http://www.medicalinnovationcompetition.org/)
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
+* [Rustbelt Refresh](http://rustbeltrefresh.com/)
 
 ## Job Search Sites
 
