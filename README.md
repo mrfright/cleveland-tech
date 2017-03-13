@@ -2,6 +2,17 @@
 
 List of local Cleveland tech companies and resources, mostly in alphabetical order.
 
+## Table of Contents
+
+* [Cleveland Companies](#cleveland-companies)
+* [Coding Bootcamps](#coding-bootcamps)
+* [Groups](#groups)
+* [Events](#events)
+* [Job Search Sites](#job-search-sites)
+* [Business Development](#business-development)
+* [Freelance](#freelance)
+* [Other Links](#other-links)
+
 ## Cleveland Companies
 
 * [1 EDI Source](http://www.1edisource.com/)
