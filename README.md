@@ -133,6 +133,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [INCOM](https://www.netincom.com/)
 * [Inforce Technologies](http://www.inforcetechnologies.com/)
 * [Innis Maggiore](http://www.innismaggiore.com/)
+* [INSIGHT2PROFIT](http://www.insight2profit.com/)
 * [insivia](http://www.insivia.com/)
 * [InterDesign](http://www.interdesignusa.com/), job posts on [Indeed](http://www.indeed.com/cmp/Interdesign,-Inc.)
 * [inTouch](http://intouchapplication.com/)
@@ -266,6 +267,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Vantage Partners](http://www.vantage-partners.net/)
 * [Veritix](http://www.veritix.com/) - bought by [AXS](http://solutions.axs.com/)
 * [Veroot](https://www.veroot.com/)
+* [Vertical Knowledge](https://www.vertical-knowledge.com/)
 * [Viewray](http://www.viewray.com/index.htm)
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
@@ -366,6 +368,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
 * [Rustbelt Refresh](http://rustbeltrefresh.com/)
+* [Erie Hack](http://eriehack.io/)
 
 ## Job Search Sites
 
@@ -457,6 +460,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Nomadlist](http://nomadlist.io/)
 * [Sharedesk](http://www.sharedesk.net/)
 * [Workfrom](https://workfrom.co/)
+* [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
 * [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
