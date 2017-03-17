@@ -2,6 +2,17 @@
 
 List of local Cleveland tech companies and resources, mostly in alphabetical order.
 
+## Table of Contents
+
+* [Cleveland Companies](#cleveland-companies)
+* [Coding Bootcamps](#coding-bootcamps)
+* [Groups](#groups)
+* [Events](#events)
+* [Job Search Sites](#job-search-sites)
+* [Business Development](#business-development)
+* [Freelance](#freelance)
+* [Other Links](#other-links)
+
 ## Cleveland Companies
 
 * [1 EDI Source](http://www.1edisource.com/)
@@ -357,6 +368,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Medical Innovation Competition](http://www.medicalinnovationcompetition.org/)
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
+* [Rustbelt Refresh](http://rustbeltrefresh.com/)
 * [Erie Hack](http://eriehack.io/)
 * [Cleveland SpaceApps](https://twitter.com/spaceappscle)
 * [GiveBackHack](http://givebackhack.com/)
