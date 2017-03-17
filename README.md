@@ -261,6 +261,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
 * [Virtual Compass](https://virtualcompass.com/)
+* [Virtual Hold Technologies](https://www.virtualhold.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
 * [Voss Industries](http://vossind.com)
 * [Votem](https://votem.com/careers/)
@@ -357,6 +358,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
 * [Erie Hack](http://eriehack.io/)
+* [Cleveland SpaceApps](https://twitter.com/spaceappscle)
+* [GiveBackHack](http://givebackhack.com/)
 
 ## Job Search Sites
 
@@ -430,6 +433,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [TechGROWTH Ohio](https://twitter.com/techgrowthohio)
 * [Health IT in the CLE](http://hitinthecle.com/)
 * [Benesch 3D Printing Group ](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
+* [Global Center for Health Innovation](http://www.theglobalcenter.com/)
 
 ## Freelance
 
@@ -446,9 +450,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [Google interview process](http://blog.lambda-startup.com/2014/03/recruitment-process-for-google-job-sre.html?m=1)
 * [Nomadlist](http://nomadlist.io/)
-* [Sharedesk](http://www.sharedesk.net/)
 * [Workfrom](https://workfrom.co/)
-* [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
 * [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
@@ -464,3 +466,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
 * [#clejobs](https://twitter.com/hashtag/clejobs?f=tweets&vertical=default&src=hash)
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
+* Cowork spaces
+  * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
+  * [SPACES & CO.](http://spacesandco.com/)
+  * [Sharedesk](http://www.sharedesk.net/)
