@@ -33,6 +33,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [BlueFrog](http://bluefroggaming.com)
 * [Bomzy Apps](http://www.bomzyapps.com/)
 * [Bosch](http://www.bosch.us/content/language1/html/index.htm)
+* [Boundary Systems](http://boundarysys.com/)
 * [boxcast](https://www.boxcast.com/)
 * [Brandmuscle](http://www.brandmuscle.com/)
 * [BrightEdge](https://www.brightedge.com/)
@@ -42,6 +43,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cardinal Commerce](https://www.cardinalcommerce.com/careers), job posting on [Stack Overflow](http://stackoverflow.com/jobs/companies/cardinalcommerce)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
 * [Class6ix](class6ix.com)
+* [Cleveland Clinic](http://jobs.clevelandclinic.org/)
 * [Cleveland HeartLab](http://www.clevelandheartlab.com/)
 * [ClickShake games](http://www.clickshakegames.com/)
 * [Cloud CMS](https://www.cloudcms.com/careers.html)
@@ -56,6 +58,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Dakota Soft](http://www.dakotasoft.com/)
 * [Data-Basics](http://www.databasics.com/)
 * [DATAForge](http://www.dataforge.com/about.html)
+* [DataServ](http://www.dataservtech.com/Careers)
 * [Datatrak](http://www.datatrak.com/)
 * [Dealer Tire](https://www.dealertire.com/careers/)
 * [Deck of Dice](http://www.deckofdice.com/)
@@ -64,6 +67,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [DHS Move](http://www.dhsgroup.com/move) - formerly [Movable](http://www.movable.com/)
 * [DialogTech](http://www.dialogtech.com/)
 * [DigitC](http://www.digitalc.org/)
+* [DMA Tech Solutions](https://www.dmatechsolutions.com/about-us/careers/)
+* [Dolbey Systems](http://www.dolbey.com/company/employment-opportunities/)
 * [Dollop](http://www.dollopapp.com/)
 * [DragonID](http://www.dragonid.com/)
 * [Dwellworks](http://www.dwellworks.com/)
@@ -103,6 +108,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [GE Lighting](http://www.ge.com/careers/opportunities)
 * [GenomeOncology](http://www.genomoncology.com/)
 * [Gestalt IT](http://gestaltit.com/)
+* [GPI Enterprises](http://www.e-gpi.com/)
 * [GroundBooth](http://www.groundbooth.com/about/)
 * [Groupmatics](http://www.groupmatics.com/)
 * [Growbots](https://www.growbots.com/about#joboffers)
@@ -132,11 +138,13 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [JAC Creative](http://www.jaccreative.com/)
 * [J-Lynn entertainment](http://www.j-lynnentertainment.com/home)
 * [Juggle](http://whyjuggle.com/)
+* [Kalibrate](http://www.kalibrate.com/)
 * [Keithley Instruments](http://www.keithley.com/)
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
 * [Knowta](http://www.knowta.com/)
 * [Knowvent](http://www.knowvent.com/) - their [API](https://github.com/Knowvent/), [another site of theirs](http://blog.iteedee.com/)
 * [Koalah](https://koalah.co/)
+* [Konica Minolta](http://konicaminoltaus.jobs/jobsearch/#All~Job~Categories|S::OH||d-ASC|1)
 * [LayerZero](http://www.layerzero.com/index.html)
 * [Lazorpoint](http://www.lazorpoint.com/)
 * [LDR Interactive](http://ldrinteractive.com/index.php)
@@ -152,7 +160,9 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [MakerGear](http://www.makergear.com/)
 * [Main Sequence Technology](https://www.pcrecruiter.net/) - maker of PCRecruiter
 * [Mango](https://www.consultmango.com/)
+* [MCPc](https://www.mcpc.com/)
 * [MedCityNews](http://medcitynews.com/)
+* [Medical Mutual](https://www.medmutual.com/Careers-Home/Department-Overviews.aspx#dept2)
 * [Metisentry](http://www.metisentry.com/)
 * [MIM Software](https://www.mimsoftware.com/)
 * [Mindful](http://getmindfully.com/)
@@ -199,16 +209,20 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
 * [Progressive](https://www.progressive.com/)
 * [Prototype1](https://prototype1.io)
+* [Pulse](http://pulsellc.com/about.html)
 * [QED](http://www.qualedyn.com/)
 * [Quadax](https://www.linkedin.com/jobs/search?f_C=84705&locationType=Y&trk=careers_promo_module_see_jobs) - their site [here](https://quadax.com/Support/ContactUs.htm)
 * [quo](https://www.rentquo.com/)
+* [Randstad](https://www.randstadusa.com/)
 * [Realeflow](http://realeflow.com/v2/)
 * [recess creative](http://www.recesscreative.com/)
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
+* [Robots and Pencils](https://robotsandpencils.com/)
 * [Rockwell Automation](http://www.rockwellautomation.com/rockwellautomation/index.page?)
+* [Root Integration](http://www.rootintegration.com/)
 * [Rosetta](http://www.rosetta.com/)
 * [Roundtable](http://www.roundtablelearning.com/)
 * [RPM](http://www.rpminc.com/)
@@ -230,7 +244,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [SplashLink](https://www.splashlink.com/Home.aspx)
 * [SPR Theraputics](http://www.sprtherapeutics.com/)
 * [Squirrels](http://www.airsquirrels.com/jobs/#dev-ops-anchor)
-* [Stackoverflow Careers Cleveland companies](http://careers.stackoverflow.com/jobs/companies?location=Cleveland&range=60&distanceUnits=Miles)
+* [Stack Overflow Cleveland company search](https://stackoverflow.com/jobs/companies?l=Cleveland%2c+OH%2c+United+States&d=50&u=Miles)
 * [STEMpowerkids](http://www.stempowerkids.com/)
 * [StreamLink](http://www.streamlinksoftware.com/)
 * [Summit Data Communications](http://www.summitdata.com/)
@@ -256,11 +270,13 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Vantage Partners](http://www.vantage-partners.net/)
 * [Veritix](http://www.veritix.com/) - bought by [AXS](http://solutions.axs.com/)
 * [Veroot](https://www.veroot.com/)
+* [Vertex](http://www.vertexcs.com/)
 * [Vertical Knowledge](https://www.vertical-knowledge.com/)
 * [Viewray](http://www.viewray.com/index.htm)
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
 * [Virtual Compass](https://virtualcompass.com/)
+* [Virtual Hold Technologies](https://www.virtualhold.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
 * [Voss Industries](http://vossind.com)
 * [Votem](https://votem.com/careers/)
@@ -283,15 +299,16 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [WeCanCodeIT](https://wecancodeit.org/)
 * [Cleveland Codes](http://www.clevelandcodes.org/)
-* [Software Craftmanship Guild](http://www.swcguild.com/)
+* [The Software Guild](https://www.thesoftwareguild.com/), formerly [Software Craftmanship Guild](http://www.swcguild.com/)
 * [Tech Elevator](http://www.techelevator.com/)
 * [Case Western Reserve University Bootcamp](https://codingbootcamp.case.edu/)
+* [Learning Studios](https://learningstudios.org/) - DigitalC's data science bootcamp
 
 ## Groups
 
 [Meetup.com](http://www.meetup.com/) is a good place to look for local tech groups.
 
-* [CLE Teen Hacks](http://cleteenhack.com/)
+* [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
 * [Soulcraft woodshop](http://soulcraftwoodshop.com/)
 * [Makers Alliance](http://www.makersalliance.org/)
 * [synHAK](http://synhak.org/home/) - now [Akron Makerspace](http://akronmakerspace.org/)?
@@ -300,6 +317,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
+  * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
 * [Cleveland Tech Slack](https://cleveland-tech.herokuapp.com/) - which goes to [here](https://cleveland-tech.slack.com)
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [Hamfest Association of Cleveland](http://www.hac.org/)
@@ -315,6 +333,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 * [Akron Women in Tech](http://akronwit.org/)
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
+* [Cleveland local-chapter of the Interaction Design Association](http://ixdacleveland.org/)
+* [GiveSec](https://givesec.org/)
 
 ## Events
 
@@ -357,12 +377,21 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
 * [Erie Hack](http://eriehack.io/)
+* [Cleveland SpaceApps](https://twitter.com/spaceappscle)
+* [GiveBackHack](http://givebackhack.com/event/cleveland/)
+* [PyCon in Cleveland 2018 and 2019](https://us.pycon.org/)
+* [HAkron](https://hakron.io/)
+* [CLE Housing Hackaton](http://clehousinghack.org/)
+* [Tandy Assembly](http://www.tandyassembly.com/)
+* [Tech Corps Northeast Ohio programs](http://techcorps.org/programs?f[0]=field_location_lookup%253Afield_region%3A49)
 
 ## Job Search Sites
 
 * [Cleveland Career Board](http://cleveland.careerboard.com/)
 * [GeekWork](geekwork.com)
-* [Career Overflow](http://careers.stackoverflow.com)
+* [Stack Overflow Cleveland job search](https://stackoverflow.com/jobs?sort=i&l=Cleveland%2C+OH%2C+United+States&d=50&u=Miles)
+  * [Stack Overflow remote job search](https://stackoverflow.com/jobs/remote-developer-jobs?sort=i)
+  * [Career Overflow](http://careers.stackoverflow.com) but that seems to be different now
 * [Indeed](http://www.indeed.com/) - IT Hare made a [programmer or developer filter](http://ithare.com/recent-software-jobs/?q=(programmer+or+developer)) for Indeed
 * [Cleveland Career Site](http://www.clevelandcareersite.com/)
 * [Ohio unemployment](https://unemployment.ohio.gov/)
@@ -394,6 +423,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [whoishiring.io](https://whoishiring.io/search/41.498/-81.708/9/)
 * [WorkinTech.io](http://workintech.io/)
 * [FirstDevJob](https://firstdevjob.com/)
+* [Free and Open Source Jobs](https://www.fossjobs.net/)
 
 ## Business Development
 
@@ -430,6 +460,10 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [TechGROWTH Ohio](https://twitter.com/techgrowthohio)
 * [Health IT in the CLE](http://hitinthecle.com/)
 * [Benesch 3D Printing Group ](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
+* [Global Center for Health Innovation](http://www.theglobalcenter.com/)
+* [EDGE](http://www.edgef.org/)
+* [COSE - Council of Smaller Enterprises](http://www.cose.org/)
+* [Cleveland Foundation](https://www.clevelandfoundation.org/)
 
 ## Freelance
 
@@ -446,9 +480,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [Google interview process](http://blog.lambda-startup.com/2014/03/recruitment-process-for-google-job-sre.html?m=1)
 * [Nomadlist](http://nomadlist.io/)
-* [Sharedesk](http://www.sharedesk.net/)
 * [Workfrom](https://workfrom.co/)
-* [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
 * [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
@@ -464,3 +496,9 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
 * [#clejobs](https://twitter.com/hashtag/clejobs?f=tweets&vertical=default&src=hash)
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
+* [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads.:
+* Cowork spaces
+  * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
+  * [SPACES & CO.](http://spacesandco.com/)
+  * [Sharedesk](http://www.sharedesk.net/)
+  * [Tenk West Bank](http://www.tenkwestbank.com/)
