@@ -494,7 +494,6 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Nomadlist](http://nomadlist.io/)
 * [Workfrom](https://workfrom.co/)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
-* [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
 * [OSC Tech Lab](http://www.osctechlab.com/index.html)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
@@ -514,4 +513,4 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [SPACES & CO.](http://spacesandco.com/)
   * [Sharedesk](http://www.sharedesk.net/)
   * [Tenk West Bank](http://www.tenkwestbank.com/)
-
+  * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
