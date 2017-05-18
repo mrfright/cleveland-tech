@@ -319,33 +319,34 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 [Meetup.com](http://www.meetup.com/) is a good place to look for local tech groups.
 
-* [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
-* [Soulcraft woodshop](http://soulcraftwoodshop.com/)
-* [Makers Alliance](http://www.makersalliance.org/)
-* [synHAK](http://synhak.org/home/) - now [Akron Makerspace](http://akronmakerspace.org/)?
 * Open data on Cleveland groups and resources
   * [Open Cleveland](http://www.opencleveland.org/)
   * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
-* [Cleveland Tech Slack](https://cleveland-tech.herokuapp.com/) - which goes to [here](https://cleveland-tech.slack.com)
-* [Findlay Radio Club](https://www.findlayradioclub.org/)
-* [Hamfest Association of Cleveland](http://www.hac.org/)
-* [Cleveland Game Developers](http://clevelandgamedevs.com/)
-* [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
-* [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
+* [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
+* [synHAK](http://synhak.org/home/) - now [Akron Makerspace](http://akronmakerspace.org/)?
+* [Akron Women in Tech](http://akronwit.org/)
+* [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
 * [Cleveland Big Data & Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
 * [Cleveland Cocoaheads (iOS & Mac development)](https://www.meetup.com/Cleveland-CocoaHeads/)
-* [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
-* [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
+* [Cleveland Drupal User Group](https://www.meetup.com/cleveland-drupal/)
+* [Cleveland Game Developers](http://clevelandgamedevs.com/)
 * [Cleveland Javascript Group](https://www.meetup.com/Cleveland-Javascript/)
-* [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
-* [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
-* [Akron Women in Tech](http://akronwit.org/)
-* [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Cleveland local-chapter of the Interaction Design Association](http://ixdacleveland.org/)
+* [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
+* [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
+* [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
+* [Cleveland Tech Slack](https://cleveland-tech.herokuapp.com/) - which goes to [here](https://cleveland-tech.slack.com)
+* [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
+* [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
+* [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [GiveSec](https://givesec.org/)
+* [Hamfest Association of Cleveland](http://www.hac.org/)
+* [Makers Alliance](http://www.makersalliance.org/)
+* [Soulcraft woodshop](http://soulcraftwoodshop.com/)
+* [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 
 ## Events
 
