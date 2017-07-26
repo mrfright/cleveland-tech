@@ -9,6 +9,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Groups](#groups)
 * [Events](#events)
 * [Job Search Sites](#job-search-sites)
+* [Recruiters](#recruiters)
 * [Business Development](#business-development)
 * [Freelance](#freelance)
 * [Other Links](#other-links)
@@ -20,6 +21,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [33 Mile Radius ](https://www.33mileradius.com/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
+* [Acumen Solutions](http://www.acumensolutions.com/careers/)
 * [Affinity](http://www.affinityit.com/)
 * [Agility Business Solutions](http://www.agilitybiz.net/)
 * [Allied Health Media](http://www.alliedhealthmedia.com/)
@@ -28,10 +30,11 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Applied Industrial Technologies](http://web.applied.com/base.cfm?page_id=4658)
 * [Apteryx](http://www.apteryx.com/)
 * [Arhaus](http://www.arhaus.com/)
-* [ Associated Software Consultants](https://www.asconline.com/ftp/) - makers of [Power Lender](https://www.powerlender.com/)
+* [Associated Software Consultants](https://www.asconline.com/ftp/) - makers of [Power Lender](https://www.powerlender.com/)
 * [Asurint](https://www.asurint.com/)
 * [Athersys](http://athersys.com/)
 * [Avantia](http://www.eavantia.com/home)
+* [AVI Foodsystems](http://www.careerbuilder.com/jobs-at-avi--foodsystems--inc/CHM14W6B55S1VMPJY8T?cat1=JN008)
 * [Avvenire Solutions](http://www.avvenireinc.com/)
 * [Banyan Tech](http://www.banyantechnology.com/)
 * [Barkeep4U](http://www.barkeep4u.com/)
@@ -172,6 +175,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Main Sequence Technology](https://www.pcrecruiter.net/) - maker of PCRecruiter
 * [Mango](https://www.consultmango.com/)
 * [MCPc](https://www.mcpc.com/)
+* [MedaSync](http://www.medasync.com/)
 * [MedCityNews](http://medcitynews.com/)
 * [Medical Mutual](https://www.medmutual.com/Careers-Home/Department-Overviews.aspx#dept2)
 * [Metisentry](http://www.metisentry.com/)
@@ -183,6 +187,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Monarch Teaching Technology](https://www.monarchtt.com/)
 * [Moreland Connect](http://www.morelandconnect.com/careers/)
 * [MRI Software](http://www.mrisoftware.com/)
+* [MTD](http://www.mtdproducts.com/equipment/en/mtdproducts) - they're getting into robotic mowers
 * [mv|designlabs](https://www.mvdesignlabs.com/)
 * [My1HR](https://www.my1hr.com/)
 * [n2y](https://www.n2y.com/)
@@ -238,6 +243,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Roundtable](http://www.roundtablelearning.com/)
 * [RPM](http://www.rpminc.com/)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
+* [Securable.io](https://www.securable.io/jobs)
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
 * [sellhack](http://sellhack.com/)
@@ -346,6 +352,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Cleveland local-chapter of the Interaction Design Association](http://ixdacleveland.org/)
 * [GiveSec](https://givesec.org/)
+* [Northeast Ohio Information Security Forum](http://www.neoisf.org/)
+* [Digital Free Initiative](https://digitalfreedominitiative.org/)
 
 ## Events
 
@@ -396,6 +404,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [CLE Housing Hackaton](http://clehousinghack.org/)
 * [Tandy Assembly](http://www.tandyassembly.com/)
 * [Tech Corps Northeast Ohio programs](http://techcorps.org/programs?f[0]=field_location_lookup%253Afield_region%3A49)
+* [Tecmo Cleveland](https://www.tecmocleveland.com/)
 
 ## Job Search Sites
 
@@ -427,6 +436,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [remote ok](https://remoteok.io)
 * [Robert Half Tech](https://www.roberthalf.com/technology)
 * [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
+  * [Search this month's 'Who is hiring?' thread](https://hnjobs.emilburzo.com/#ohio)
+  * [HN Hiring](http://hnhiring.me/) - source [here](https://github.com/mwylde/hnhiring)
 * [USAJOBS](https://www.usajobs.gov/Search/?keyword=&Location=Cleveland%2C+Ohio&AutoCompleteSelected=true) - government job search site, including Cleveland NASA jobs
 * [untapt](https://www.untapt.com/)
 * [JobSpade](https://www.jobspade.com/)
@@ -436,6 +447,11 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [WorkinTech.io](http://workintech.io/)
 * [FirstDevJob](https://firstdevjob.com/)
 * [Free and Open Source Jobs](https://www.fossjobs.net/)
+
+## Recruiters
+
+* [Apex Systems](https://www.apexsystems.com/Pages/default.aspx?state=OH#loc)
+* [CyberCoders](https://www.cybercoders.com/search/?searchterms=&searchlocation=Cleveland%2C+OH&newsearch=true&originalsearch=true&sorttype=)
 
 ## Business Development
 
@@ -476,6 +492,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [EDGE](http://www.edgef.org/)
 * [COSE - Council of Smaller Enterprises](http://www.cose.org/)
 * [Cleveland Foundation](https://www.clevelandfoundation.org/)
+* [The Dealership](https://www.thedealership-shaker.com/)
+* [Ohio Federal Research Network](https://ohiofrn.org/)
 
 ## Freelance
 
@@ -507,10 +525,14 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
 * [#clejobs](https://twitter.com/hashtag/clejobs?f=tweets&vertical=default&src=hash)
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
-* [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads.:
+* [The 20 Hottest Cities for Tech Jobs Now](https://amp.timeinc.net/time/money/4812479/top-20-cities-tech-jobs/?source=dam)
+* [The Hunt For The Next Portland: Hoteliers Bet Big On Small City America](https://www.fastcompany.com/40403310/the-hunt-for-the-next-portland-hoteliers-bet-big-on-small-city-america)
+* [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
 * Cowork spaces
   * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
   * [SPACES & CO.](http://spacesandco.com/)
   * [Sharedesk](http://www.sharedesk.net/)
   * [Tenk West Bank](http://www.tenkwestbank.com/)
   * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
+  * [StartMart](http://startmart.us/)
+  * [Midtown Tech Hive](https://kevin-poor-p8f7.squarespace.com/midtown-tech-hive) operated by DigitalC
