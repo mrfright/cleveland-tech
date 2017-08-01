@@ -302,6 +302,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Wastebits](http://wastebits.com/)
 * [Webcollage](http://www.webcollage.com/)
 * [Wheedle](https://wheedleapp.com/)
+* [WhiteSpace](https://www.whitespace-creative.com/careers.aspx)
 * [Widdle](http://www.widdle.it/)
 * [Wireless Environment](http://www.wirelessenv.com/)
 * [Wishlu](http://blog.wishlu.com/)
@@ -513,13 +514,12 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Nomadlist](http://nomadlist.io/)
 * [Workfrom](https://workfrom.co/)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
-* [OSC Tech Lab](http://www.osctechlab.com/index.html)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote. [site here](http://j-delaney.github.io/easy-application/)
   * [Computer Science Jobs](https://csjobs.co/) - based on Easy Application
 * [Best Places to Live for Tech Entrepreneurs](http://www.techinsurance.com/resources/best-places-to-live/cleveland-oh/)
-* [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh)
+* [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh), they post upcoming events on their [Twitter](https://twitter.com/nplexCLE)
 * [Crain's Cleveland Business list of companies that employ software developers](http://www.crainscleveland.com/article/99999999/DATA/500010564/software-developers)
 * [CLK Tech](http://www.clktech.io/)
 * [Cleveland Tech News](https://twitter.com/CleTechNews) - [their site](http://clevelandtechnews.com/), seems inactive for a few months
@@ -537,3 +537,4 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
   * [StartMart](http://startmart.us/)
   * [Midtown Tech Hive](https://kevin-poor-p8f7.squarespace.com/midtown-tech-hive) operated by DigitalC
+  * [OSC Tech Lab](http://www.osctechlab.com/index.html)
