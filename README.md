@@ -239,10 +239,10 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Robots and Pencils](https://robotsandpencils.com/)
 * [Rockwell Automation](http://www.rockwellautomation.com/rockwellautomation/index.page?)
 * [Root Integration](http://www.rootintegration.com/)
-* [Rosetta](http://www.rosetta.com/)
 * [Roundtable](http://www.roundtablelearning.com/)
 * [RPM](http://www.rpminc.com/)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
+* [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
 * [Securable.io](https://www.securable.io/jobs)
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
