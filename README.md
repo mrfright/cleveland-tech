@@ -242,7 +242,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Roundtable](http://www.roundtablelearning.com/)
 * [RPM](http://www.rpminc.com/)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
-* [SapientRazorfish_](http://www.sapientrazorfish.com/)
+* [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
 * [Securable.io](https://www.securable.io/jobs)
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
