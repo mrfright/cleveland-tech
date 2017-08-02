@@ -164,6 +164,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [LDR Interactive](http://ldrinteractive.com/index.php)
 * [Level Seven](http://www.lvlsvn.com/)
 * [LightSpeed Hosting](https://lightspeedhosting.com/)
+* [Lincoln Electric](https://jobs.lincolnelectric.com/)
 * [LineStream](http://www.linestream.com/default.aspx)
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
 * [Lockheed Martin](http://www.lockheedmartin.com/us/mfc/siteinformation/akron.html)
