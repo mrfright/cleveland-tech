@@ -27,9 +27,12 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Allied Health Media](http://www.alliedhealthmedia.com/)
 * [alltech](http://www.alltechmedusa.com/Homepage.html)
 * [American Greetings](http://www.americangreetings.com/)
+* [AmTrust](https://amtrustfinancial.com/careers/hiring-process)
 * [Applied Industrial Technologies](http://web.applied.com/base.cfm?page_id=4658)
 * [Apteryx](http://www.apteryx.com/)
 * [Arhaus](http://www.arhaus.com/)
+* [Arras Keathley](http://www.arraskeathley.com/)
+* [ASMGi](https://www.asmgi.com/)
 * [Associated Software Consultants](https://www.asconline.com/ftp/) - makers of [Power Lender](https://www.powerlender.com/)
 * [Asurint](https://www.asurint.com/)
 * [Athersys](http://athersys.com/)
@@ -97,6 +100,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [EmployStream](http://www.employstream.com/)
 * [EnergyEne](http://www.energyene.com/)
 * [Equity Engineering Group](https://www.equityeng.com/jobs/0)
+* [ERT](https://www.ert.com/) positions at their [Cleveland office](https://careers-ert.icims.com/jobs/3054/software-engineer%2c-imaging/job?mobile=false&width=1839&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 * [Essex Digital Platform](http://www.essexdigitalplatform.com/)
 * [Ethode](https://www.ethode.com/)
 * [Event38](http://www.event38.com/default.asp)
@@ -108,6 +112,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [ExpenseBot](http://expensebot.com/)
 * [Explorys](http://explorys.com/)
 * [ExportNow](http://exportnow.com/index.html#page-top)
+* [Falls Digital](http://www.fallsdigital.com/)
 * [Fast Switch](http://www.fastswitch.com/fsl_new_belong_earn.html)
 * [Findaway](http://findaway.com/) - [Findaway World](http://www.findawayworld.com/) redirects here now, their [Jobs page](https://careers.smartrecruiters.com/Findaway/)
 * [FeneTech](http://fenetech.com/)
@@ -172,6 +177,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Longsight](http://www.longsight.com/)
 * [Lufthouse](http://lufthouse.com/)
 * [LunchOwl](www.lunchowl.com/)
+* [MacroPoint](http://www.macropoint.com/)
 * [MakerGear](http://www.makergear.com/)
 * [Main Sequence Technology](https://www.pcrecruiter.net/) - maker of PCRecruiter
 * [Mango](https://www.consultmango.com/)
@@ -198,6 +204,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [New Innovations](https://www.new-innov.com/pub/)
 * [New York Community Bank](https://www.mynycb.com/Pages/home.aspx)
 * [NEXT Internet](http://www.netxinternet.com/)
+* [NK Web Development](http://nkwebdevelopment.com/employment-programmer)
 * [Notice Software](http://noticesoftware.com/)
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
 * [Oatey](http://www.oatey.com/)
@@ -216,6 +223,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com)
 * [PCRecruiter](https://www.pcrecruiter.net/) - by Main Sequence Technology
+* [PC Parts Unlimited](http://www.pcpartsohio.com/)
 * [PDP Tax Service](http://pdptax.com/)
 * [Pervasive Path](http://pervasivepath.com/)
 * [Phenom](http://www.phenom.co/) - possibly no longer active, that site is an empty Heroku app and their Facebook page hasn't been active for almost a year
@@ -268,6 +276,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Summit Data Communications](http://www.summitdata.com/)
 * [Swagelok](http://www.swagelok.com/en)
 * [SyncShow](http://syncshow.com/)
+* [Synopsys](https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html) - their [stackoverflow page](https://stackoverflow.com/jobs/companies/synopsys) has Cleveland jobs
 * [Tackk](http://tackk.com/)
 * [tallyo](http://tallyo.com/)
 * [Tharo Systems](http://www.tharo.com/)
@@ -355,7 +364,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Hamfest Association of Cleveland](http://www.hac.org/)
 * [Makers Alliance](http://www.makersalliance.org/)
 * [Northeast Ohio Information Security Forum](http://www.neoisf.org/)
-* [Soulcraft woodshop](http://soulcraftwoodshop.com/)
+* [Soulcraft woodshop](http://soulcraftwoodshop.com/), also see [Soulcraft CLE](http://soulcraftcle.org/)
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 
 ## Events
@@ -408,6 +417,10 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Tandy Assembly](http://www.tandyassembly.com/)
 * [Tech Corps Northeast Ohio programs](http://techcorps.org/programs?f[0]=field_location_lookup%253Afield_region%3A49)
 * [Tecmo Cleveland](https://www.tecmocleveland.com/)
+* [The Side Quest](http://www.thesidequestbar.com/) - local nerd bar, not exactly tech but lots of interesting events
+* [Observatory Park](https://www.geaugaparkdistrict.org/parks/observatorypark.shtml) - a Dark Sky park
+* [Flight by Launch League](http://www.launchleague.org/flight/)
+* [TechInvest](https://techinvest.wpengine.com/)
 
 ## Job Search Sites
 
@@ -450,6 +463,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [WorkinTech.io](http://workintech.io/)
 * [FirstDevJob](https://firstdevjob.com/)
 * [Free and Open Source Jobs](https://www.fossjobs.net/)
+* [JumpStart Jobs](https://twitter.com/jumpstart_jobs)
 
 ## Recruiters
 
@@ -497,6 +511,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Foundation](https://www.clevelandfoundation.org/)
 * [The Dealership](https://www.thedealership-shaker.com/)
 * [Ohio Federal Research Network](https://ohiofrn.org/)
+* [BOUNCE innovation hub coming to Akron's B.F. Goodrich building](http://www.cleveland.com/akron/index.ssf/2017/08/bounce_innovation_hub_coming_t.html)
+* [Start in CLE](https://startincle.com/)
 
 ## Freelance
 
