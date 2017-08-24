@@ -450,7 +450,6 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [hacker.surf](http://hacker.surf/)
 * [Old Geek Jobs](https://oldgeekjobs.com/)
 * [remote ok](https://remoteok.io)
-* [Robert Half Tech](https://www.roberthalf.com/technology)
 * [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
   * [Search this month's 'Who is hiring?' thread](https://hnjobs.emilburzo.com/#ohio)
   * [HN Hiring](http://hnhiring.me/) - source [here](https://github.com/mwylde/hnhiring)
@@ -469,6 +468,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [Apex Systems](https://www.apexsystems.com/Pages/default.aspx?state=OH#loc)
 * [CyberCoders](https://www.cybercoders.com/search/?searchterms=&searchlocation=Cleveland%2C+OH&newsearch=true&originalsearch=true&sorttype=)
+* [Robert Half](https://www.roberthalf.com/jobs/all-jobs/cleveland-oh)
 
 ## Business Development
 
