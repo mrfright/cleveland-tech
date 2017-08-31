@@ -12,6 +12,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Recruiters](#recruiters)
 * [Business Development](#business-development)
 * [Freelance](#freelance)
+* [Remote Working](#remote-working)
 * [Other Links](#other-links)
 
 ## Cleveland Companies
@@ -525,11 +526,28 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [upwork](https://www.upwork.com/)
 * [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 
+## Remote Working
+
+* Companies that hire remote
+  * [Clear Measure](https://www.clear-measure.com/careers)
+* Cowork spaces
+  * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
+  * [SPACES & CO.](http://spacesandco.com/)
+  * [Sharedesk](http://www.sharedesk.net/)
+  * [Tenk West Bank](http://www.tenkwestbank.com/)
+  * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
+  * [StartMart](http://startmart.us/)
+  * [Midtown Tech Hive](https://kevin-poor-p8f7.squarespace.com/midtown-tech-hive) operated by DigitalC
+  * [OSC Tech Lab](http://www.osctechlab.com/index.html)
+  * [Tech Hub Hudson](http://www.techhubhudson.com/en)
+* Resources
+  * [Nomadlist](http://nomadlist.io/)
+  * [Workfrom](https://workfrom.co/)
+  * [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
+
 ## Other Links
 
 * [Google interview process](http://blog.lambda-startup.com/2014/03/recruitment-process-for-google-job-sre.html?m=1)
-* [Nomadlist](http://nomadlist.io/)
-* [Workfrom](https://workfrom.co/)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
@@ -545,13 +563,4 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
 * [The 20 Hottest Cities for Tech Jobs Now](https://amp.timeinc.net/time/money/4812479/top-20-cities-tech-jobs/?source=dam)
 * [The Hunt For The Next Portland: Hoteliers Bet Big On Small City America](https://www.fastcompany.com/40403310/the-hunt-for-the-next-portland-hoteliers-bet-big-on-small-city-america)
-* [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
-* Cowork spaces
-  * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
-  * [SPACES & CO.](http://spacesandco.com/)
-  * [Sharedesk](http://www.sharedesk.net/)
-  * [Tenk West Bank](http://www.tenkwestbank.com/)
-  * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
-  * [StartMart](http://startmart.us/)
-  * [Midtown Tech Hive](https://kevin-poor-p8f7.squarespace.com/midtown-tech-hive) operated by DigitalC
-  * [OSC Tech Lab](http://www.osctechlab.com/index.html)
+
