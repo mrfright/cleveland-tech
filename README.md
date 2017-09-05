@@ -451,6 +451,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [hacker.surf](http://hacker.surf/)
 * [Old Geek Jobs](https://oldgeekjobs.com/)
 * [remote ok](https://remoteok.io)
+* [Remote Working](http://www.remoteworking.co/)
 * [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
   * [Search this month's 'Who is hiring?' thread](https://hnjobs.emilburzo.com/#ohio)
   * [HN Hiring](http://hnhiring.me/) - source [here](https://github.com/mwylde/hnhiring)
@@ -514,6 +515,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Ohio Federal Research Network](https://ohiofrn.org/)
 * [BOUNCE innovation hub coming to Akron's B.F. Goodrich building](http://www.cleveland.com/akron/index.ssf/2017/08/bounce_innovation_hub_coming_t.html)
 * [Start in CLE](https://startincle.com/)
+* [Cleveland Co-Labs](https://www.clevelandcolabs.org/)
 
 ## Freelance
 
