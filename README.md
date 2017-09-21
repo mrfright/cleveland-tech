@@ -343,6 +343,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
+  * [Open Geo Cleveland](https://twitter.com/opengeocle) - seems defunct, points to Open Cleveland's meetup
 * [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
 * [synHAK](http://synhak.org/home/) - now [Akron Makerspace](http://akronmakerspace.org/)?
 * [Akron Women in Tech](http://akronwit.org/)
@@ -356,7 +357,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
 * [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
 * [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
-* [Cleveland Tech Slack](https://cleveland-tech.herokuapp.com/) - which goes to [here](https://cleveland-tech.slack.com)
+* [Cleveland Tech Slack](https://cleveland-tech.slack.com) - register to get your invite [here](https://cleveland-tech.herokuapp.com/)
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Digital Free Initiative](https://digitalfreedominitiative.org/)
 * [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
@@ -367,6 +368,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Northeast Ohio Information Security Forum](http://www.neoisf.org/)
 * [Soulcraft woodshop](http://soulcraftwoodshop.com/), also see [Soulcraft CLE](http://soulcraftcle.org/)
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
+* [Cleveland Locksport](https://twitter.com/CLELocksport)
 
 ## Events
 
@@ -422,6 +424,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Observatory Park](https://www.geaugaparkdistrict.org/parks/observatorypark.shtml) - a Dark Sky park
 * [Flight by Launch League](http://www.launchleague.org/flight/)
 * [TechInvest](https://techinvest.wpengine.com/)
+* [GDEX](https://www.thegdex.com/) - "The Midwest's Premier Gaming Expo"
 
 ## Job Search Sites
 
