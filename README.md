@@ -20,6 +20,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [1 EDI Source](http://www.1edisource.com/)
 * [216 Software](http://216software.com/)
 * [33 Mile Radius ](https://www.33mileradius.com/)
+* [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
 * [Acumen Solutions](http://www.acumensolutions.com/careers/)
@@ -317,7 +318,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Widdle](http://www.widdle.it/)
 * [Wireless Environment](http://www.wirelessenv.com/)
 * [Wishlu](http://blog.wishlu.com/)
-* [Wisr.io](http://www.wisr.io/) - [job here](https://angel.co/wisr-1/jobs/161494-senior-software-engineer)
+* [Wisr.io](http://www.wisr.io/) - redirects [here](http://www.getwisr.com), [job here](https://angel.co/wisr-1/jobs/161494-senior-software-engineer), and [here](https://public.3.basecamp.com/p/5HyjBtjoJW3yEewEiypPZzbz)
 * [Within3](http://www.within3.com/home.aspx)
 * [WTWH Media](http://www.wtwhmedia.com/)
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
@@ -455,7 +456,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Old Geek Jobs](https://oldgeekjobs.com/)
 * [remote ok](https://remoteok.io)
 * [Remote Working](http://www.remoteworking.co/)
-* [Hacker News](https://news.ycombinator.com/) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
+* [Hacker News: Who is hiring?](https://news.ycombinator.com/submitted?id=whoishiring) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
   * [Search this month's 'Who is hiring?' thread](https://hnjobs.emilburzo.com/#ohio)
   * [HN Hiring](http://hnhiring.me/) - source [here](https://github.com/mwylde/hnhiring)
 * [USAJOBS](https://www.usajobs.gov/Search/?keyword=&Location=Cleveland%2C+Ohio&AutoCompleteSelected=true) - government job search site, including Cleveland NASA jobs
