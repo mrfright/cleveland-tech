@@ -18,6 +18,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 ## Cleveland Companies
 
 * [1 EDI Source](http://www.1edisource.com/)
+* [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [33 Mile Radius ](https://www.33mileradius.com/)
 * [41n.io](http://www.41n.io/)
