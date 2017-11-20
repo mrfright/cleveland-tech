@@ -24,6 +24,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
+* [Acroment](http://www.acroment.com/careers/)
 * [Acumen Solutions](http://www.acumensolutions.com/careers/)
 * [Affinity](http://www.affinityit.com/)
 * [Agility Business Solutions](http://www.agilitybiz.net/)
@@ -74,6 +75,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [CSS security](http://www.css-security.com/)
 * [CT Logistics](http://www.ctlogistics.com/)
 * [Custom Orthopaedics](http://customorthopaedics.com/)
+  * [Recruiter Box career page](https://customorthopaedics.recruiterbox.com/)
+  * [Stack Overflow career page](https://stackoverflow.com/jobs/companies/custom-orthopaedic-solutions)
 * [Cynergies](https://cynergies.net/)
 * [Dakota Soft](http://www.dakotasoft.com/)
 * [Data-Basics](http://www.databasics.com/)
@@ -145,6 +148,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Human Arc](http://www.humanarc.com/) - aquired by [Centauri Health Solutions](http://www.centaurihs.com/)
 * [Hurricane Labs](https://hurricanelabs.com/)
 * [Hyland](https://www.onbase.com/), creator of OnBase
+* [HyperProductive](http://www.hyperproductive.com/)
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
@@ -177,12 +181,13 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
 * [Lockheed Martin](http://www.lockheedmartin.com/us/mfc/siteinformation/akron.html)
 * [Logic Junction](http://logicjunction.com/)
+* [LogiSync](http://logisync.com/)
 * [Longsight](http://www.longsight.com/)
 * [Lufthouse](http://lufthouse.com/)
 * [LunchOwl](www.lunchowl.com/)
 * [MacroPoint](http://www.macropoint.com/)
 * [MakerGear](http://www.makergear.com/)
-* [Main Sequence Technology](https://www.pcrecruiter.net/) - maker of PCRecruiter
+* [Main Sequence Technology](https://www.pcrecruiter.net/main-sequence/career-opportunities/) - maker of PCRecruiter
 * [Mango](https://www.consultmango.com/)
 * [MCPc](https://www.mcpc.com/)
 * [MedaSync](http://www.medasync.com/)
@@ -232,6 +237,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Phenom](http://www.phenom.co/) - possibly no longer active, that site is an empty Heroku app and their Facebook page hasn't been active for almost a year
 * [Philips Medical](http://www.healthcare.philips.com/us_en/)
 * [pixsi](http://www.pixsi.com/)
+* [Pleasant Valley Corporation](https://careers.pvcconnect.com/Careers.aspx)
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
@@ -259,6 +265,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
 * [sellhack](http://sellhack.com/)
+* [Sherwin-Williams](https://jobsearch.sherwin.com/?jobsearch_keyword=&jobsearch_lat=&jobsearch_lng=&jobsearch_postal=&jobfiltering_language=en-US&jobfiltering_sortby=Closest&jobfiltering_distance=50&jobfiltering_distance_format=Miles&jobfiltering_worklocation=US%20OH%20Cleveland%20Headquarters&jobfiltering_division=&jobfilter_arr_jobfields=6&jobfilter_arr_employement_categories=&jobsearch_location=Cleveland)
 * [Simbionix](http://simbionix.com/)
 * [Simple A](http://simplea.com/)
 * [Skookum Arts](http://skookum-arts.com/)
@@ -292,6 +299,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [TOA Tech](http://toatech.com/)
 * [Transportation Management Software](https://www.tmwsystems.com/)
 * [Tribute Inc.](http://www.tribute.com/)
+* [Trilogy Education Services](http://www.trilogyed.com/careers/openings/) - coding boot camps, including Case
 * [TrustedSec](https://www.trustedsec.com/)
 * [Turning Technologies](http://intl.turningtechnologies.com/)
 * [Twist Creative](http://www.twist-creative.com/)
@@ -308,6 +316,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Virtual Compass](https://virtualcompass.com/)
 * [Virtual Hold Technologies](https://www.virtualhold.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
+* [Vlipsy](https://vlipsy.com/)
 * [Voss Industries](http://vossind.com)
 * [Votem](https://votem.com/careers/)
 * [Vox Mobile](http://www.voxmobile.com/contact/careers/)
@@ -371,6 +380,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Soulcraft woodshop](http://soulcraftwoodshop.com/), also see [Soulcraft CLE](http://soulcraftcle.org/)
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 * [Cleveland Locksport](https://twitter.com/CLELocksport)
+* [Tech4Good Cleveland](http://tech4goodcle.org/)
 
 ## Events
 
@@ -427,6 +437,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Flight by Launch League](http://www.launchleague.org/flight/)
 * [TechInvest](https://techinvest.wpengine.com/)
 * [GDEX](https://www.thegdex.com/) - "The Midwest's Premier Gaming Expo"
+* [N.E. Geek Expo](http://www.negeekexpo.com/)
 
 ## Job Search Sites
 
@@ -535,8 +546,9 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 ## Remote Working
 
-* Companies that hire remote
+* Companies that hire remote - usually with Cleveland people working there
   * [Clear Measure](https://www.clear-measure.com/careers)
+  * [PhishMe](https://careers-phishme.icims.com/jobs/intro?in_iframe=1)
 * Cowork spaces
   * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
   * [SPACES & CO.](http://spacesandco.com/)
@@ -570,4 +582,3 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
 * [The 20 Hottest Cities for Tech Jobs Now](https://amp.timeinc.net/time/money/4812479/top-20-cities-tech-jobs/?source=dam)
 * [The Hunt For The Next Portland: Hoteliers Bet Big On Small City America](https://www.fastcompany.com/40403310/the-hunt-for-the-next-portland-hoteliers-bet-big-on-small-city-america)
-
