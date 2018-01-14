@@ -149,6 +149,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Hurricane Labs](https://hurricanelabs.com/)
 * [Hyland](https://www.onbase.com/), creator of OnBase
 * [HyperProductive](http://www.hyperproductive.com/)
+* [Hyr Medical](https://hyrmed.com/)
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
@@ -249,6 +250,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [quo](https://www.rentquo.com/)
 * [Randstad](https://www.randstadusa.com/)
 * [Realeflow](http://realeflow.com/v2/)
+* [Revature](https://revature.com/careers/?Location=Cleveland%2C+OH&Department=Software+Development&submit=FILTER)
 * [recess creative](http://www.recesscreative.com/)
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
@@ -303,6 +305,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [TrustedSec](https://www.trustedsec.com/)
 * [Turning Technologies](http://intl.turningtechnologies.com/)
 * [Twist Creative](http://www.twist-creative.com/)
+* [UGottaEat](https://ugottaeat.com/)
 * [United Computer Group](http://www.ucgrp.com/)
 * [UrbanCode](http://www.urbancode.com/)
 * [Vantage Partners](http://www.vantage-partners.net/)
@@ -350,6 +353,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * Open data on Cleveland groups and resources
   * [Open Cleveland](http://www.opencleveland.org/)
+    * they do projects like [Cleveland Lots](http://clevelandlots.org/)
   * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
@@ -419,6 +423,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [CoolTech Challenge](http://www.cooltechchallenge.org/)
 * [CodeMash](http://www.codemash.org/)
   * [CodeMash CTF](codemashctf.com) - their [Twitter](https://twitter.com/CodeMashCTF)
+  * [blog for CTF](https://codemashctf.wordpress.com/)
+  * [hacking-lab site](https://codemash.hacking-lab.com/codemash/?mc_cid=3bbcb111ec&mc_eid=%5bUNIQID%5d)
 * [Medical Innovation Competition](http://www.medicalinnovationcompetition.org/)
 * [Data Days CLE](http://datadayscle.org) - open data/civic tech event by the various open data groups
 * [Cleveland Hamfest and Computer Show](http://hac.org/) by Hamfest Association of Cleveland
@@ -549,6 +555,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * Companies that hire remote - usually with Cleveland people working there
   * [Clear Measure](https://www.clear-measure.com/careers)
   * [PhishMe](https://careers-phishme.icims.com/jobs/intro?in_iframe=1)
+  * [UserTesting](https://careers.smartrecruiters.com/UserTesting)
 * Cowork spaces
   * [CUBE Workspace](http://cubecleveland.com/newcubesite/index.html)
   * [SPACES & CO.](http://spacesandco.com/)
