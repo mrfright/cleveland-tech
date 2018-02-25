@@ -391,6 +391,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 * [Cleveland Locksport](https://twitter.com/CLELocksport)
 * [Tech4Good Cleveland](http://tech4goodcle.org/)
+* [UXPA Cleveland](https://www.uxpacleveland.org/)
 
 ## Events
 
