@@ -55,6 +55,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Barkeep4U](http://www.barkeep4u.com/)
 * [because I said I would](http://becauseisaidiwould.com/)
 * [Beegit](https://www.beegit.com/)
+* [Bennett Adelson](https://www.bennettadelson.com/) - their [Taleo Job Search](http://chm.tbe.taleo.net/chm03/ats/careers/jobSearch.jsp?org=BENNETTADELSON&cws=39)
 * [Big River](http://www.gobigriver.com/)
 * [Binary Defense Systems](https://www.binarydefense.com/)
 * [Biolectrics](http://biolectrics.net/)
