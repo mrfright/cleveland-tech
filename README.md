@@ -377,7 +377,6 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 * [WeCanCodeIT](https://wecancodeit.org/)
 * [Cleveland Codes](http://www.clevelandcodes.org/) - [tri-c site](http://www.tri-c.edu/programs/information-technology/cleveland-codes/index.html)
-* [The Software Guild](https://www.thesoftwareguild.com/), formerly [Software Craftmanship Guild](http://www.swcguild.com/)
 * [Tech Elevator](http://www.techelevator.com/)
 * [Case Western Reserve University Bootcamp](https://codingbootcamp.case.edu/)
 * [Learning Studios](https://learningstudios.org/) - DigitalC's data science bootcamp
