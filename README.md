@@ -311,6 +311,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [SpaceBound](http://spacebound.com/)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
 * [SplashLink](https://www.splashlink.com/Home.aspx)
+* [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
 * [SPR Theraputics](http://www.sprtherapeutics.com/)
 * [Squirrels](http://www.airsquirrels.com/jobs/#dev-ops-anchor)
