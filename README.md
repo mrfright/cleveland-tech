@@ -549,7 +549,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Leadership](http://www.cleveleads.org/)
 * [BioMotiv ](http://www.biomotiv.com/)
 * [The Bit Factory](http://www.thebitfactory.com/)
-* [Akron Accelerator](http://www.akronaccelerator.com/)
+* [Bounce Hub](http://www.bouncehub.org/)
 * [Prototech](http://magnetprototech.org/)
 * [StartMart](http://startmart.us/)
 * [Technology for Ohio's Tomorrow](http://tech4ohio.org/)
