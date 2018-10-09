@@ -84,6 +84,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cloud CMS](https://www.cloudcms.com/careers.html)
 * [CodeRed](https://www.coderedcorp.com/)
 * [Coffee and Code](http://www.coffeeandcode.com/)
+* [Company 119](https://www.company119.com/)
 * [Complion](https://complion.com/)
 * [COMS Interactive](http://comsllc.com/)
 * [Cost Sharing Solutions](http://www.costsharingsolutions.com/)
