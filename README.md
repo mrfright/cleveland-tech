@@ -366,7 +366,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Widdle](http://www.widdle.it/)
 * [Wireless Environment](http://www.wirelessenv.com/)
 * [Wishlu](http://blog.wishlu.com/)
-* [Wisr.io](http://www.wisr.io/) - redirects [here](http://www.getwisr.com), [job here](https://angel.co/wisr-1/jobs/161494-senior-software-engineer), and [here](https://public.3.basecamp.com/p/5HyjBtjoJW3yEewEiypPZzbz)
+* [Wisr](https://getwisr.com/)
 * [Within3](http://www.within3.com/home.aspx)
 * [WTWH Media](http://www.wtwhmedia.com/)
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
