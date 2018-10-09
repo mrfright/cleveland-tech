@@ -319,7 +319,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
 * [SPR Theraputics](http://www.sprtherapeutics.com/)
-* [Squirrels](http://www.airsquirrels.com/jobs/#dev-ops-anchor)
+* [Squirrels](http://www.airsquirrels.com/jobs/)
+  * [SQRL](http://squirrelsresearch.com/) - their research group on things like crypto mining hardware
 * [Stack Overflow Cleveland company search](https://stackoverflow.com/jobs/companies?l=Cleveland%2c+OH%2c+United+States&d=50&u=Miles)
 * [STEMpowerkids](http://www.stempowerkids.com/)
 * [StreamLink](http://www.streamlinksoftware.com/)
@@ -395,6 +396,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * Open data on Cleveland groups and resources
   * [Open Cleveland](http://www.opencleveland.org/)
     * they do projects like [Cleveland Lots](http://clevelandlots.org/)
+  * [Open Geo Cleveland](https://mobile.twitter.com/opengeocle)
   * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
@@ -445,7 +447,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Night Makers Ball](http://www.nightmakersball.com/)
 * [Ohio LinuxFest](http://ohiolinux.org/)
 * [Weapons of Mass Creation](https://wmcfest.com/)
-* [Cleveland Tech Events](http://www.clevelandtechevents.com/), their [Twitter](https://twitter.com/cletechevents)
+* [Cleveland Tech Events](http://www.clevelandtechevents.com/), their [Twitter](https://twitter.com/cletechevents), [their calendar](https://techeventsnetwork.com/cities/cleveland/)
 * [Tech Week](http://www.techweekneo.com/)
 * [Cleveland Give Camp](clevelandgivecamp.org)
 * [NEXT Ohio](http://www.nextohio.com/)
@@ -585,6 +587,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Start in CLE](https://startincle.com/)
 * [Cleveland Co-Labs](https://www.clecolabs.org/) - [old site](https://www.clevelandcolabs.org/)
 * [Global Shapers Cleveland](http://www.globalshaperscle.com/) - [Cleveland hub](https://www.globalshapers.org/hubs/cleveland-hub)
+* [Cleveland Built](http://clevelandbuilt.com/)
 
 ## Freelance
 
@@ -606,6 +609,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [PhishMe](https://careers-phishme.icims.com/jobs/intro?in_iframe=1)
   * [UserTesting](https://careers.smartrecruiters.com/UserTesting)
   * [Stitch Fix](https://www.stitchfix.com/careers?gh_jid=265107&gh_src=mi5xq81)
+  * [Ceros](http://labs.ceros.com/jobs/#/)
 * Cowork spaces
   * [CUBE Workspace](https://www.cubecleveland.com/getsomeworkdone.html)
   * [SPACES & CO.](http://spacesandco.com/)
@@ -616,6 +620,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [Midtown Tech Hive](https://kevin-poor-p8f7.squarespace.com/midtown-tech-hive) operated by DigitalC
   * [OSC Tech Lab](http://www.osctechlab.com/index.html)
   * [Tech Hub Hudson](http://www.techhubhudson.com/en)
+  * [Limelight](https://limelightwork.com/)
+  * [Beauty Shoppe](https://beautyshoppe.co/locations/seymour-building/)
 * Resources
   * [Nomadlist](http://nomadlist.io/)
   * [Workfrom](https://workfrom.co/)
@@ -623,8 +629,6 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 
 ## Other Links
 
-* [Google interview process](http://blog.lambda-startup.com/2014/03/recruitment-process-for-google-job-sre.html?m=1)
-* [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote. [site here](http://j-delaney.github.io/easy-application/)
