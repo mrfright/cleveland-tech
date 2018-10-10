@@ -494,6 +494,8 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [GDEX](https://www.thegdex.com/) - "The Midwest's Premier Gaming Expo"
 * [N.E. Geek Expo](http://www.negeekexpo.com/)
 * [Cleveland Metroparks Hackathon](https://www.clevelandmetroparks.com/hackathon) - redirects to [here](https://www.clevelandmetroparks.com/special-pages/hackathoncleveland)
+* [Kent Hack Enough](https://khe.io/) - KSU Hackathon
+* [Hack YSU](http://hackysu.com/)-YSU's annual hackathon
 
 ## Job Search Sites
 
