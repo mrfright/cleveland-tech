@@ -369,6 +369,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [VTI instruments](http://www.vtiinstruments.com/Company/CareersInUSA.aspx)
 * [Wastebits](http://wastebits.com/)
 * [Webcollage](http://www.webcollage.com/)
+* [Wentworth Solutions](http://wentinc.com/)
 * [Wheedle](https://wheedleapp.com/)
 * [WhiteSpace](https://www.whitespace-creative.com/careers.aspx)
 * [Widdle](http://www.widdle.it/)
