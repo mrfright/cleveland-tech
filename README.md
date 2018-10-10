@@ -103,6 +103,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Data Genomix](http://www.datagenomix.com/)
 * [DataServ](http://www.dataservtech.com/Careers)
 * [Datatrak](http://www.datatrak.com/)
+* [Davey Resource Group](http://www.davey.com/davey-resource-group)
 * [Dealer Tire](https://www.dealertire.com/careers/)
 * [Deck of Dice](http://www.deckofdice.com/)
 * [DesignFlux Technologies](http://designfluxtech.com/)
