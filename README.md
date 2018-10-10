@@ -432,6 +432,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [UXPA Cleveland](https://www.uxpacleveland.org/)
 * [Flux Makerspace](http://www.fluxmakerspace.com/)
 * [Studio How-To](https://www.studiohow-to.com/)
+* [We Make the Internet](https://www.meetup.com/make-the-internet/)
 
 ## Events
 
