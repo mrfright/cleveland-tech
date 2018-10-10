@@ -623,6 +623,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
   * [Tech Hub Hudson](http://www.techhubhudson.com/en)
   * [Limelight](https://limelightwork.com/)
   * [Beauty Shoppe](https://beautyshoppe.co/locations/seymour-building/)
+  * [Canton Work Space](http://www.cantonworkspace.com/)
 * Resources
   * [Nomadlist](http://nomadlist.io/)
   * [Workfrom](https://workfrom.co/)
