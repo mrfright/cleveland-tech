@@ -419,7 +419,10 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
 * [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
 * [Cleveland Tech Slack](https://cleveland-tech.slack.com) - register to get your invite [here](https://cleveland-tech.herokuapp.com/)
+* [Cleveland Web Design and Development (CLE WDD)](https://www.meetup.com/CLE-WDD/)
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
+* [Crypto Cleveland](https://www.meetup.com/Crypto-Cleveland/)
+* [CLEVR Facebook Group](https://www.facebook.com/groups/clevrcommunity/) | [CLEVR Facebook Page](https://www.facebook.com/clevrcommunity/)
 * [Digital Free Initiative](https://digitalfreedominitiative.org/)
 * [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
@@ -496,6 +499,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Cleveland Metroparks Hackathon](https://www.clevelandmetroparks.com/hackathon) - redirects to [here](https://www.clevelandmetroparks.com/special-pages/hackathoncleveland)
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/)-YSU's annual hackathon
+* [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
 
 ## Job Search Sites
 
