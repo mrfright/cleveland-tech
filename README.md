@@ -277,6 +277,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Philips Medical](http://www.healthcare.philips.com/us_en/)
 * [pixsi](http://www.pixsi.com/)
 * [Pleasant Valley Corporation](http://www.pleasantvalleycorporation.com/employment/) - their [careers page](https://careers.pvcconnect.com/Careers.aspx)
+* [PNC Financial](https://www.pnc.com/) - Strongsville, W130th Operations, Highland Hills - [Careers Page](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=15783&siteid=5130#Location(s)=OH%20-%20Strongsville,OH%20-%20Cleveland,OH%20-%20Highland%20Hills&keyWordSearch=&locationSearch=)
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
