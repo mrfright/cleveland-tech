@@ -1,6 +1,6 @@
 # Cleveland Tech
 
-List of local Cleveland tech companies and resources, mostly in alphabetical order.
+List of Cleveland area tech companies and resources, mostly in alphabetical order.
 
 ## Table of Contents
 
@@ -456,6 +456,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [Ohio LinuxFest](http://ohiolinux.org/)
 * [Weapons of Mass Creation](https://wmcfest.com/)
 * [Cleveland Tech Events](http://www.clevelandtechevents.com/), their [Twitter](https://twitter.com/cletechevents), [their calendar](https://techeventsnetwork.com/cities/cleveland/)
+  * a similar [Cleveland Tech Events](https://twitter.com/clevtechevents)
 * [Tech Week](http://www.techweekneo.com/)
 * [Cleveland Give Camp](clevelandgivecamp.org)
 * [NEXT Ohio](http://www.nextohio.com/)
