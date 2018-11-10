@@ -413,7 +413,8 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [Cleveland Big Data & Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
 * [Cleveland Cocoaheads (iOS & Mac development)](https://www.meetup.com/Cleveland-CocoaHeads/)
 * [Cleveland Drupal User Group](https://www.meetup.com/cleveland-drupal/)
-* [Cleveland Game Developers](http://clevelandgamedevs.com/)
+* [Cleveland Game Developers](http://clevelandgamedevs.com/) - redirects from [here](clegamedevs.com)
+* [Cleveland Game Co-op](https://twitter.com/clegamecoop)
 * [Cleveland Javascript Group](https://www.meetup.com/Cleveland-Javascript/)
 * [Cleveland local-chapter of the Interaction Design Association](http://ixdacleveland.org/)
 * [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
@@ -439,6 +440,7 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [Flux Makerspace](http://www.fluxmakerspace.com/)
 * [Studio How-To](https://www.studiohow-to.com/)
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
+* [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
 
 ## Events
 
@@ -600,6 +602,7 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [Cleveland Co-Labs](https://www.clecolabs.org/) - [old site](https://www.clevelandcolabs.org/)
 * [Global Shapers Cleveland](http://www.globalshaperscle.com/) - [Cleveland hub](https://www.globalshapers.org/hubs/cleveland-hub)
 * [Cleveland Built](http://clevelandbuilt.com/)
+* [TechniCLE Speaking tech summit](https://twitter.com/CLEtechsummit)
 
 ## Freelance
 
