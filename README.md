@@ -196,7 +196,6 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
 * [Knowta](http://www.knowta.com/)
 * [Knowvent](http://www.knowvent.com/) - their [API](https://github.com/Knowvent/), [another site of theirs](http://blog.iteedee.com/)
-* [Koalah](https://koalah.co/)
 * [Komae](https://www.mykomae.com/)
 * [Konica Minolta](http://konicaminoltaus.jobs/jobsearch/#All~Job~Categories|S::OH||d-ASC|1)
 * [LayerZero](http://www.layerzero.com/index.html)
@@ -303,7 +302,6 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [Sapience](https://www.dice.com/company/10405949) - with jobs like [Embedded Developer](https://www.dice.com/jobs/detail/Embedded-Developer-Sapience%2C-Inc-Cleveland-OH-44101/10405949/480718) on Dice
 * [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
-* [Securable.io](https://www.securable.io/jobs)
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
 * [sellhack](http://sellhack.com/)
