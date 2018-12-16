@@ -6,7 +6,7 @@ List of Cleveland area tech companies and resources.
 
 The primary purpose of this list is a resource to the Cleveland area tech community.  This could mean reasonable distance for someone from around here to drive to, for instance.  Things like Akron companies are an example of what's not "Cleveland area" but welcome here.
 
-Remote jobs and resources of course don't apply to that, but as such means they don't need exposure from a Cleveland-centric list and are probably found elsewhere.  But what is relevant is if a particular remote job has Cleveland-are employees for example, as those are then a kind of local resource for that job.
+Remote jobs and resources of course don't apply to that, but as such means they don't need exposure from a Cleveland-centric list and are probably found elsewhere.  But what is relevant is if a particular remote job has Cleveland-area employees for example, as those are then a kind of local resource for that job.
 
 Pruning defunct organizations or dead links is also a helpful contribution.  This list serves to help find resources, and it can't do that effectively if it's wasting people's time pointing them in the wrong direction.
 
