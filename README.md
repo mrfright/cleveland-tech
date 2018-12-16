@@ -78,6 +78,7 @@ List of Cleveland area tech companies and resources, mostly in alphabetical orde
 * [Capricorn Systems](http://www.capricornsys.com/jobs.html) - jobs like [Embedded C/C++ Programmers](https://www.dice.com/jobs/detail/c8cec17d423b240f2a7eda3b71a0df65?src=32&CMPID=AG_ZR_PD_JS_US_OG_RC_&utm_campaign=Advocacy_Ongoing&utm_medium=Aggregator&utm_source=ZipRecuiter&rx_campaign=ziprecruiter51&rx_group=100954&rx_job=capricor%2Fc8cec17d423b240f2a7eda3b71a0df65&rx_medium=cpc&rx_source=ziprecruiter&zip_cid=53898569-12fd-48d0-9cfa-6c38a7920755) on Dice
 * [Cardinal Commerce](https://www.cardinalcommerce.com/careers), job posting on [Stack Overflow](http://stackoverflow.com/jobs/companies/cardinalcommerce)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
+* [Centric Consulting](https://centricconsulting.com/about-us/careers/job-openings/)
 * [Circle Prime Manufacturing](http://www.circleprime.com/)
 * [Class6ix](class6ix.com)
 * [Cleveland Clinic](http://jobs.clevelandclinic.org/)
