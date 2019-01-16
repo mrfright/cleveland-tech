@@ -374,7 +374,7 @@ And thank you for your help!
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
 * [Virtual Compass](https://virtualcompass.com/)
-* [Virtual Hold Technologies](https://www.vhtcx.com/about/careers/)
+* [VHT - formerly Virtual Hold Technologies](https://www.vhtcx.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
 * [Vlipsy](https://vlipsy.com/)
 * [Voss Industries](http://vossind.com)
