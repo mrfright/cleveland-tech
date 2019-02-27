@@ -208,6 +208,7 @@ And thank you for your help!
 * [Juggle](http://whyjuggle.com/)
 * [Kalibrate](http://www.kalibrate.com/)
 * [Keithley Instruments](http://www.keithley.com/)
+* [Keyfactor](https://www.keyfactor.com/careers/#open-positions)
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
 * [Knowta](http://www.knowta.com/)
 * [Knowvent](http://www.knowvent.com/) - their [API](https://github.com/Knowvent/), [another site of theirs](http://blog.iteedee.com/)
@@ -467,6 +468,7 @@ And thank you for your help!
 * [NorTech UnConference](http://www.nortechuncon.com/)
 * [Engines of Ingenuity Summit](http://ingenuitycleveland.com/engines/)
 * [B-Sides](http://bsidescle.com/)
+  * [another URL](https://www.bsidescleveland.com/)
 * [Night Makers Ball](http://www.nightmakersball.com/)
 * [Ohio LinuxFest](http://ohiolinux.org/)
 * [Weapons of Mass Creation](https://wmcfest.com/)
@@ -559,7 +561,8 @@ And thank you for your help!
 * [WorkinTech.io](http://workintech.io/)
 * [FirstDevJob](https://firstdevjob.com/)
 * [Free and Open Source Jobs](https://www.fossjobs.net/)
-* [JumpStart Jobs](https://twitter.com/jumpstart_jobs)
+* [JumpStart Jobs Twitter](https://twitter.com/jumpstart_jobs)
+* [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
 
 ## Recruiters
