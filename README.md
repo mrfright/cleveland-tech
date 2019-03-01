@@ -565,6 +565,7 @@ And thank you for your help!
 * [JumpStart Jobs Twitter](https://twitter.com/jumpstart_jobs)
 * [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
+* [Adafruit Jobs Board](https://jobs.adafruit.com/)
 
 ## Recruiters
 
