@@ -624,6 +624,8 @@ And thank you for your help!
 * [Cleveland Built](http://clevelandbuilt.com/)
 * [TechniCLE Speaking tech summit](https://twitter.com/CLEtechsummit)
 * [Plug and Play Cleveland](https://www.plugandplaytechcenter.com/cleveland/)
+* [SIM Cleveland](https://chapter.simnet.org/cleveland/home)
+* [Akron AITP](https://akron-aitp.org/)
 
 ## Freelance
 
