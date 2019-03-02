@@ -623,6 +623,7 @@ And thank you for your help!
 * [Global Shapers Cleveland](http://www.globalshaperscle.com/) - [Cleveland hub](https://www.globalshapers.org/hubs/cleveland-hub)
 * [Cleveland Built](http://clevelandbuilt.com/)
 * [TechniCLE Speaking tech summit](https://twitter.com/CLEtechsummit)
+* [Plug and Play Cleveland](https://www.plugandplaytechcenter.com/cleveland/)
 
 ## Freelance
 
