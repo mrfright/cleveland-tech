@@ -626,6 +626,7 @@ And thank you for your help!
 * [Plug and Play Cleveland](https://www.plugandplaytechcenter.com/cleveland/)
 * [SIM Cleveland](https://chapter.simnet.org/cleveland/home)
 * [Akron AITP](https://akron-aitp.org/)
+* [Blockland](https://www.blocklandcleveland.com/)
 
 ## Freelance
 
