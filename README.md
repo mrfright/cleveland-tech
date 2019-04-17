@@ -32,6 +32,7 @@ And thank you for your help!
 ## Cleveland Companies
 
 * [1 EDI Source](http://www.1edisource.com/)
+* [121eCommerce](https://www.121ecommerce.com/)
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
@@ -197,6 +198,7 @@ And thank you for your help!
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
+* [Indago](https://indago.io/)
 * [Inforce Technologies](http://www.inforcetechnologies.com/)
 * [Innis Maggiore](http://www.innismaggiore.com/)
 * [INSIGHT2PROFIT](http://www.insight2profit.com/)
@@ -214,6 +216,7 @@ And thank you for your help!
 * [Keithley Instruments](http://www.keithley.com/)
 * [Keyfactor](https://www.keyfactor.com/careers/#open-positions)
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
+* [Kiwi Creative](https://www.kiwicreative.net/culture/careers/)
 * [Knowta](http://www.knowta.com/)
 * [Knowvent](http://www.knowvent.com/) - their [API](https://github.com/Knowvent/), [another site of theirs](http://blog.iteedee.com/)
 * [Komae](https://www.mykomae.com/)
@@ -269,6 +272,7 @@ And thank you for your help!
 * [Nordson](http://www.nordson.com/en/our-company/careers) - [USA jobs](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers), [stack overflow](https://stackoverflow.com/jobs/companies/nordson-corporation)
 * [Notice Software](http://noticesoftware.com/)
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
+* [n2y](https://www.n2y.com/)
 * [Oatey](http://www.oatey.com/)
 * [OEC Connection](http://www.oeconnection.com/)
 * [Omnitek](http://www.omnitekllc.com/)
@@ -283,7 +287,10 @@ And thank you for your help!
 * [Onvoy](http://www.onvoy.com/)
 * [Osmisys](http://www.osmisys.com/)
 * [OverDrive](https://www.overdrive.com/)
+* [Ownum](https://ownum.io/) - blockchain company started by car salesman that started Blockland
+  * [CHAMPTitles](https://www.champtitles.com/) - car titles on the blockchain
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
+* [Pandata](http://pandata.co/about-us/careers/)
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com)
 * [Park Place Technologies](http://www.parkplacetechnologies.com/) - recently bought [Axentel](http://axentel.com/)
@@ -384,6 +391,7 @@ And thank you for your help!
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
 * [Virtual Compass](https://virtualcompass.com/)
+* [Vizion Solutions](https://vizionsolutions.com/career-listings)
 * [VHT - formerly Virtual Hold Technologies](https://www.vhtcx.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
 * [Vlipsy](https://vlipsy.com/)
@@ -465,6 +473,8 @@ And thank you for your help!
 * [Studio How-To](https://www.studiohow-to.com/)
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
+* [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
+* [Web Association CLE](https://mobile.twitter.com/WebCleveland)
 
 ## Events
 
