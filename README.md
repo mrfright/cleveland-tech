@@ -322,6 +322,8 @@ And thank you for your help!
 * [Relational Systems](http://winsearch.com/)
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
+* [Resolvit](http://careers.resolvit.com/Home/countryId/1/stateId/OH)
+  * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/resolvit-llc) with jobs like [embedded C++ in Mayfield Heights](https://stackoverflow.com/jobs/254503/c-plus-plus-software-engineer-resolvit-llc)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
 * [Robots and Pencils](https://robotsandpencils.com/)
