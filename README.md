@@ -340,6 +340,7 @@ And thank you for your help!
 * [Sherwin-Williams](https://jobsearch.sherwin.com/?jobsearch_keyword=&jobsearch_lat=&jobsearch_lng=&jobsearch_postal=&jobfiltering_language=en-US&jobfiltering_sortby=Closest&jobfiltering_distance=50&jobfiltering_distance_format=Miles&jobfiltering_worklocation=US%20OH%20Cleveland%20Headquarters&jobfiltering_division=&jobfilter_arr_jobfields=6&jobfilter_arr_employement_categories=&jobsearch_location=Cleveland)
 * [Simbionix](http://simbionix.com/)
 * [Simple A](http://simplea.com/)
+* [Sixth City Marketing](https://www.sixthcitymarketing.com/)
 * [Skookum Arts](http://skookum-arts.com/)
 * [SKYCATCHFIRE](http://skycatchfire.com/)
 * [SME Cleveland](http://www.smecleveland.com/)
