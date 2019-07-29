@@ -594,6 +594,7 @@ And thank you for your help!
 * [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
 * [Adafruit Jobs Board](https://jobs.adafruit.com/)
+* [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 
 ## Recruiters
 
