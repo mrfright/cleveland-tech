@@ -69,6 +69,7 @@ And thank you for your help!
 * [Avesta Systems](http://avestacorp.com/about-us/#careers)
 * [AVI Foodsystems](http://www.careerbuilder.com/jobs-at-avi--foodsystems--inc/CHM14W6B55S1VMPJY8T?cat1=JN008)
 * [Avvenire Solutions](http://www.avvenireinc.com/)
+* [Aztek](https://www.aztekweb.com/)
 * [B3 Innovations](https://www.b3innovations.com/)
 * [Banyan Tech](http://www.banyantechnology.com/)
 * [Barkeep4U](http://www.barkeep4u.com/)
@@ -259,6 +260,7 @@ And thank you for your help!
 * [Mod Meals](http://mod-meals.com/)
 * [Monarch Teaching Technology](https://www.monarchtt.com/)
 * [Moreland Connect](http://www.morelandconnect.com/careers/)
+* [Moss Corporation](http://www.mossaffiliatemarketing.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/moss-corporation)
 * [MRI Software](http://www.mrisoftware.com/)
 * [MTD](http://www.mtdproducts.com/equipment/en/mtdproducts) - they're getting into robotic mowers
 * [mv|designlabs](https://www.mvdesignlabs.com/)
