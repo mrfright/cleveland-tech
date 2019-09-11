@@ -198,6 +198,7 @@ And thank you for your help!
 * [Hyland](https://www.onbase.com/), creator of OnBase
 * [HyperProductive](http://www.hyperproductive.com/)
 * [Hyr Medical](https://hyrmed.com/)
+* [ID Networks](http://www.idnetworks.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/idn)
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
@@ -290,7 +291,7 @@ And thank you for your help!
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
 * [Osmisys](http://www.osmisys.com/)
-* [OverDrive](https://www.overdrive.com/)
+* [OverDrive](https://www.overdrive.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/overdrive-inc)
 * [Ownum](https://ownum.io/) - blockchain company started by car salesman that started Blockland
   * [CHAMPTitles](https://www.champtitles.com/) - car titles on the blockchain
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
