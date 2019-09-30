@@ -658,6 +658,7 @@ And thank you for your help!
 * [SIM Cleveland](https://chapter.simnet.org/cleveland/home)
 * [Akron AITP](https://akron-aitp.org/)
 * [Blockland](https://www.blocklandcleveland.com/)
+* [Ohio Aerospace Institute](http://www.oai.org/)
 
 ## Freelance
 
