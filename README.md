@@ -219,6 +219,7 @@ And thank you for your help!
 * [Juggle](http://whyjuggle.com/)
 * [Kalibrate](http://www.kalibrate.com/)
 * [Keithley Instruments](http://www.keithley.com/)
+* [Kent Displays](https://kentdisplays.com/jobs) - creator of the [Boogie Board](https://myboogieboard.com/)
 * [Keyfactor](https://www.keyfactor.com/careers/#open-positions)
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
 * [Kiwi Creative](https://www.kiwicreative.net/culture/careers/)
