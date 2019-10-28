@@ -32,6 +32,7 @@ And thank you for your help!
 ## Cleveland Companies
 
 * [1 EDI Source](http://www.1edisource.com/)
+* [121eCommerce](https://www.121ecommerce.com/)
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
@@ -39,6 +40,7 @@ And thank you for your help!
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
+* [ABB](https://new.abb.com/jobs/center#JobCountry=US&JobCity=Cleveland&JobFunction=any&JobRole=any&JobText=)
 * [Accellis](https://accellis.com/)
 * [Acroment](http://www.acroment.com/careers/)
 * [Acumen Solutions](http://www.acumensolutions.com/careers/)
@@ -55,6 +57,7 @@ And thank you for your help!
 * [Arhaus](http://www.arhaus.com/)
 * [Aronetics](https://www.aronetics.com/about-us/)
 * [Arras Keathley](http://www.arraskeathley.com/)
+* [Artemis Intelligence](https://www.artemisintel.io/), their [Workable page](https://artemisintel.workable.com/)
 * [ASMGi](https://www.asmgi.com/)
 * [Associated Software Consultants](https://www.asconline.com/ftp/) - makers of [Power Lender](https://www.powerlender.com/)
 * [Assurant Labs](https://www.assurantlabs.com/careers/)
@@ -63,11 +66,14 @@ And thank you for your help!
 * [Avantia](http://www.eavantia.com/home)
 * [AvatarFleet](https://www.avatarfleet.com/about/work-at-avatarfleet/)
   * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/avatarfleet)
+* [Avesta Systems](http://avestacorp.com/about-us/#careers)
 * [AVI Foodsystems](http://www.careerbuilder.com/jobs-at-avi--foodsystems--inc/CHM14W6B55S1VMPJY8T?cat1=JN008)
 * [Avvenire Solutions](http://www.avvenireinc.com/)
+* [Aztek](https://www.aztekweb.com/)
 * [B3 Innovations](https://www.b3innovations.com/)
 * [Banyan Tech](http://www.banyantechnology.com/)
 * [Barkeep4U](http://www.barkeep4u.com/)
+* [Bear VAI Technology](http://bearvai.com/inc/our_team/career-opportunities/)
 * [because I said I would](http://becauseisaidiwould.com/)
 * [Beegit](https://www.beegit.com/)
 * [Bennett Adelson](https://www.bennettadelson.com/) - their [Taleo Job Search](http://chm.tbe.taleo.net/chm03/ats/careers/jobSearch.jsp?org=BENNETTADELSON&cws=39)
@@ -148,9 +154,11 @@ And thank you for your help!
 * [Essex Digital Platform](http://www.essexdigitalplatform.com/)
 * [Ethode](https://www.ethode.com/)
 * [Event38](http://www.event38.com/default.asp)
+* [EventWorks4D](https://www.ew4d.com/)
 * [Everkey](https://everykey.com/)
 * [Everstream](http://everstream.net/)
 * [Excellware](http://www.excellware.com/)
+* [ExchangeBase](https://www.exchangebase.com/) - position on [StackOverflow](https://stackoverflow.com/jobs/279926/software-development-manager-exchangebase)
 * [Expand Interactive](http://www.expandinteractive.com/)
 * [Expedient](https://www.expedient.com/company/careers-opportunities/)
 * [ExpenseBot](http://expensebot.com/)
@@ -163,6 +171,7 @@ And thank you for your help!
 * [FeneTech](http://fenetech.com/)
 * [FIT Technologies](http://www.fittechnologies.com/)
 * [Fleetmatics](https://www.fleetmatics.com/)
+* [Fleet Response](https://www.fleetresponse.com/about-fr/careers/)
 * [FormFire](https://www.formfire.com/)
 * [Foundation Software](http://www.foundationsoft.com/)
 * [FreshGames](www.freshgames.com/)
@@ -190,9 +199,11 @@ And thank you for your help!
 * [Hyland](https://www.onbase.com/), creator of OnBase
 * [HyperProductive](http://www.hyperproductive.com/)
 * [Hyr Medical](https://hyrmed.com/)
+* [ID Networks](http://www.idnetworks.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/idn)
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
+* [Indago](https://indago.io/)
 * [Inforce Technologies](http://www.inforcetechnologies.com/)
 * [Innis Maggiore](http://www.innismaggiore.com/)
 * [INSIGHT2PROFIT](http://www.insight2profit.com/)
@@ -208,8 +219,10 @@ And thank you for your help!
 * [Juggle](http://whyjuggle.com/)
 * [Kalibrate](http://www.kalibrate.com/)
 * [Keithley Instruments](http://www.keithley.com/)
+* [Kent Displays](https://kentdisplays.com/jobs) - creator of the [Boogie Board](https://myboogieboard.com/)
 * [Keyfactor](https://www.keyfactor.com/careers/#open-positions)
 * [Kinetiq Digital](http://www.kinetiqdigital.com/)
+* [Kiwi Creative](https://www.kiwicreative.net/culture/careers/)
 * [Knowta](http://www.knowta.com/)
 * [Knowvent](http://www.knowvent.com/) - their [API](https://github.com/Knowvent/), [another site of theirs](http://blog.iteedee.com/)
 * [Komae](https://www.mykomae.com/)
@@ -250,6 +263,7 @@ And thank you for your help!
 * [Mod Meals](http://mod-meals.com/)
 * [Monarch Teaching Technology](https://www.monarchtt.com/)
 * [Moreland Connect](http://www.morelandconnect.com/careers/)
+* [Moss Corporation](http://www.mossaffiliatemarketing.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/moss-corporation)
 * [MRI Software](http://www.mrisoftware.com/)
 * [MTD](http://www.mtdproducts.com/equipment/en/mtdproducts) - they're getting into robotic mowers
 * [mv|designlabs](https://www.mvdesignlabs.com/)
@@ -265,6 +279,7 @@ And thank you for your help!
 * [Nordson](http://www.nordson.com/en/our-company/careers) - [USA jobs](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers), [stack overflow](https://stackoverflow.com/jobs/companies/nordson-corporation)
 * [Notice Software](http://noticesoftware.com/)
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
+* [n2y](https://www.n2y.com/)
 * [Oatey](http://www.oatey.com/)
 * [OEC Connection](http://www.oeconnection.com/)
 * [Omnitek](http://www.omnitekllc.com/)
@@ -278,11 +293,15 @@ And thank you for your help!
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
 * [Osmisys](http://www.osmisys.com/)
-* [OverDrive](https://www.overdrive.com/)
+* [OverDrive](https://www.overdrive.com/) - their [careers page](https://company.overdrive.com/careers/), [Stack Overflow page](https://stackoverflow.com/jobs/companies/overdrive-inc)
+* [Ownum](https://ownum.io/) - blockchain company started by car salesman that started Blockland
+  * [CHAMPTitles](https://www.champtitles.com/) - car titles on the blockchain
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
+* [Pandata](http://pandata.co/about-us/careers/)
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com)
 * [Park Place Technologies](http://www.parkplacetechnologies.com/) - recently bought [Axentel](http://axentel.com/)
+* [Patriot Software](https://www.patriotsoftware.com/about/careers/positions/)
 * [PCC Airfoils](http://www.pccairfoils.com/business_units/mentor/)
 * [PCRecruiter](https://www.pcrecruiter.net/) - by Main Sequence Technology
 * [PC Parts Unlimited](http://www.pcpartsohio.com/)
@@ -296,6 +315,7 @@ And thank you for your help!
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
+* [Proformex](https://www.proformex.com/careers)
 * [Progressive](https://www.progressive.com/)
 * [Prototype1](https://prototype1.io)
 * [Pulse](http://pulsellc.com/about.html)
@@ -306,8 +326,11 @@ And thank you for your help!
 * [Realeflow](http://realeflow.com/v2/)
 * [Revature](https://revature.com/careers/?Location=Cleveland%2C+OH&Department=Software+Development&submit=FILTER)
 * [recess creative](http://www.recesscreative.com/)
+* [Relational Systems](http://winsearch.com/)
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
+* [Resolvit](http://careers.resolvit.com/Home/countryId/1/stateId/OH)
+  * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/resolvit-llc) with jobs like [embedded C++ in Mayfield Heights](https://stackoverflow.com/jobs/254503/c-plus-plus-software-engineer-resolvit-llc)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
 * [Robots and Pencils](https://robotsandpencils.com/)
@@ -324,6 +347,7 @@ And thank you for your help!
 * [Sherwin-Williams](https://jobsearch.sherwin.com/?jobsearch_keyword=&jobsearch_lat=&jobsearch_lng=&jobsearch_postal=&jobfiltering_language=en-US&jobfiltering_sortby=Closest&jobfiltering_distance=50&jobfiltering_distance_format=Miles&jobfiltering_worklocation=US%20OH%20Cleveland%20Headquarters&jobfiltering_division=&jobfilter_arr_jobfields=6&jobfilter_arr_employement_categories=&jobsearch_location=Cleveland)
 * [Simbionix](http://simbionix.com/)
 * [Simple A](http://simplea.com/)
+* [Sixth City Marketing](https://www.sixthcitymarketing.com/)
 * [Skookum Arts](http://skookum-arts.com/)
 * [SKYCATCHFIRE](http://skycatchfire.com/)
 * [SME Cleveland](http://www.smecleveland.com/)
@@ -342,6 +366,7 @@ And thank you for your help!
 * [STEMpowerkids](http://www.stempowerkids.com/)
 * [StreamLink](http://www.streamlinksoftware.com/)
 * [Summit Data Communications](http://www.summitdata.com/)
+* [Sundance Systems](https://www.sundance-sys.com/)
 * [Swagelok](http://www.swagelok.com/en)
 * [SyncShow](http://syncshow.com/)
 * [Synopsys](https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html) - their [stackoverflow page](https://stackoverflow.com/jobs/companies/synopsys) has Cleveland jobs
@@ -356,7 +381,7 @@ And thank you for your help!
 * [Timocco](http://www.timocco.com/)
 * [Tiny Circuits](https://tiny-circuits.com/)
 * [TOA Tech](http://toatech.com/) - aquired by Oracle
-* [Transportation Management Software](https://www.tmwsystems.com/)
+* [Trimble Transportation](https://www.trimble.com/transportation-logistics/index.aspx) - formerly [Transportation Management Software](https://www.tmwsystems.com/)
 * [Tribute Inc.](http://www.tribute.com/)
 * [Trilogy Education Services](http://www.trilogyed.com/careers/openings/) - coding boot camps, including Case
 * [TrustedSec](https://www.trustedsec.com/)
@@ -376,6 +401,7 @@ And thank you for your help!
 * [VIPerks](https://www.viperks.net/about/careers)
 * [Virteom](http://virteom.com/)
 * [Virtual Compass](https://virtualcompass.com/)
+* [Vizion Solutions](https://vizionsolutions.com/career-listings)
 * [VHT - formerly Virtual Hold Technologies](https://www.vhtcx.com/about/careers/)
 * [Vitamix](https://www.vitamix.com/)
 * [Vlipsy](https://vlipsy.com/)
@@ -393,6 +419,7 @@ And thank you for your help!
 * [Wishlu](http://blog.wishlu.com/)
 * [Wisr](https://getwisr.com/)
 * [Within3](http://www.within3.com/home.aspx)
+* [WM Software](http://www.wmsoftware.com/)
 * [WTWH Media](http://www.wtwhmedia.com/)
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
 * [Zin Technologies](http://www.zin-tech.com/)
@@ -456,6 +483,9 @@ And thank you for your help!
 * [Studio How-To](https://www.studiohow-to.com/)
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
+* [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
+* [Web Association CLE](https://mobile.twitter.com/WebCleveland)
+* [Northern Ohio Amateur Radio Society](https://www.noars.net/)
 
 ## Events
 
@@ -520,6 +550,9 @@ And thank you for your help!
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/)-YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
+* [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
+* [Cleveland Tech Summit](http://cleveland-summit.com/)
+* [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 
 ## Job Search Sites
 
@@ -565,6 +598,8 @@ And thank you for your help!
 * [JumpStart Jobs Twitter](https://twitter.com/jumpstart_jobs)
 * [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
+* [Adafruit Jobs Board](https://jobs.adafruit.com/)
+* [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 
 ## Recruiters
 
@@ -595,7 +630,7 @@ And thank you for your help!
 * [OHTec](http://ohtec.org/), their [Twitter](https://twitter.com/OHTecOnline)
 * [GLIDE](http://www.glideit.org/)
 * [BioEnterprise](http://www.bioenterprise.com/)
-* [RITE - Regional Information Technology Engagement](https://www.getithere.net/)
+* [RITE - Regional Information Technology Engagement](https://ohiorite.com/)
 * [Conexus](http://www.conexus.jobs/)
 * [startup CLE](http://www.startupcle.co/)
 * [Launch League](http://www.launchleague.org/)
@@ -620,6 +655,11 @@ And thank you for your help!
 * [Global Shapers Cleveland](http://www.globalshaperscle.com/) - [Cleveland hub](https://www.globalshapers.org/hubs/cleveland-hub)
 * [Cleveland Built](http://clevelandbuilt.com/)
 * [TechniCLE Speaking tech summit](https://twitter.com/CLEtechsummit)
+* [Plug and Play Cleveland](https://www.plugandplaytechcenter.com/cleveland/)
+* [SIM Cleveland](https://chapter.simnet.org/cleveland/home)
+* [Akron AITP](https://akron-aitp.org/)
+* [Blockland](https://www.blocklandcleveland.com/)
+* [Ohio Aerospace Institute](http://www.oai.org/)
 
 ## Freelance
 
@@ -676,3 +716,4 @@ And thank you for your help!
 * [Why Ohio Is The Best State In America To Launch A Start Up](https://www.forbes.com/sites/petertaylor/2017/02/20/why-ohio-is-the-best-state-in-america-to-launch-a-start-up/#77b4b9dd1d94)
 * [The 20 Hottest Cities for Tech Jobs Now](https://amp.timeinc.net/time/money/4812479/top-20-cities-tech-jobs/?source=dam)
 * [The Hunt For The Next Portland: Hoteliers Bet Big On Small City America](https://www.fastcompany.com/40403310/the-hunt-for-the-next-portland-hoteliers-bet-big-on-small-city-america)
+* [How does Cleveland rank against Columbus, Pittsburgh for becoming the nation’s next tech hub?](https://www.cleveland.com/news/2019/05/how-does-cleveland-rank-against-columbus-pittsburgh-for-becoming-the-nations-next-tech-hub.html)
