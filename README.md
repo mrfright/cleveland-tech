@@ -93,6 +93,7 @@ And thank you for your help!
 * [Brand New Ship](http://www.brandnewship.com/)
 * [BrightEdge](https://www.brightedge.com/careers/engineering) - can find job posts [here](https://jobs.lever.co/brightedge/07de0db8-27ee-41c9-aef0-dd94700aa24e)
 * [briteskies](http://www.briteskies.com/)
+* [Breakwall Analytics](https://www.breakwall.io/)
 * [BudgetDumpster](http://www.budgetdumpster.com/)
 * [Buyerquest](http://www.buyerquest.com/)
 * [Capricorn Systems](http://www.capricornsys.com/jobs.html) - jobs like [Embedded C/C++ Programmers](https://www.dice.com/jobs/detail/c8cec17d423b240f2a7eda3b71a0df65?src=32&CMPID=AG_ZR_PD_JS_US_OG_RC_&utm_campaign=Advocacy_Ongoing&utm_medium=Aggregator&utm_source=ZipRecuiter&rx_campaign=ziprecruiter51&rx_group=100954&rx_job=capricor%2Fc8cec17d423b240f2a7eda3b71a0df65&rx_medium=cpc&rx_source=ziprecruiter&zip_cid=53898569-12fd-48d0-9cfa-6c38a7920755) on Dice
@@ -341,6 +342,7 @@ And thank you for your help!
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [Sapience](https://www.dice.com/company/10405949) - with jobs like [Embedded Developer](https://www.dice.com/jobs/detail/Embedded-Developer-Sapience%2C-Inc-Cleveland-OH-44101/10405949/480718) on Dice
 * [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
+* [Search Discovery](https://www.searchdiscovery.com/)
 * [Secure State](https://www.securestate.com/)
 * [Segmint](https://segmint.com/)
 * [sellhack](http://sellhack.com/)
@@ -390,7 +392,7 @@ And thank you for your help!
 * [Twist Creative](http://www.twist-creative.com/)
 * [TWPI-Inc](https://www.twpi-inc.com/)
 * [UGottaEat](https://ugottaeat.com/)
-* [Unify Project](https://www.unifyproject.org/)
+* [Unify Labs](https://www.unifylabs.org/) - formerly Unify Project
 * [United Computer Group](http://www.ucgrp.com/)
 * [UrbanCode](http://www.urbancode.com/)
 * [Vantage Partners](https://www.vantagepartners.com/about/careers/)
