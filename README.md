@@ -356,6 +356,7 @@ And thank you for your help!
 * [Softosource](http://softosource.com/)
 * [SpaceBound](http://spacebound.com/)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
+* [Splash Financial](https://splashfinancial.com/careers) - [their Stack Overflow page](https://stackoverflow.com/jobs/companies/splash-financial)
 * [SplashLink](https://www.splashlink.com/Home.aspx)
 * [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
