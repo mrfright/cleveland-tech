@@ -63,6 +63,7 @@ And thank you for your help!
 * [Assurant Labs](https://www.assurantlabs.com/careers/)
 * [Asurint](https://www.asurint.com/) - their [job applications page](https://recruiting.paylocity.com/recruiting/jobs/List/1142/N9187---One-Source-Technology-LLC)
 * [Athersys](http://athersys.com/)
+* [Axuall](https://www.axuall.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/axuall)
 * [Avantia](http://www.eavantia.com/home)
 * [AvatarFleet](https://www.avatarfleet.com/about/work-at-avatarfleet/)
   * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/avatarfleet)
@@ -165,6 +166,7 @@ And thank you for your help!
 * [ExpenseBot](http://expensebot.com/)
 * [Explorys](http://explorys.com/)
 * [ExportNow](http://exportnow.com/index.html#page-top)
+* [FactCite Lincoln Library Online](https://thelincolnlibrary.com/)
 * [Falls Digital](http://www.fallsdigital.com/)
 * [Fast Switch](http://www.fastswitch.com/fsl_new_belong_earn.html)
 * [Findaway](http://findaway.com/) - [Findaway World](http://www.findawayworld.com/) redirects here now, their [Jobs page](https://careers.smartrecruiters.com/Findaway/)
@@ -300,7 +302,7 @@ And thank you for your help!
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
 * [Pandata](http://pandata.co/about-us/careers/)
 * [Paragon](http://www.paragon-inc.com/)
-* [Parker Hannifin](http://parker.com)
+* [Parker Hannifin](http://parker.com) - their [job search](http://parkercareers.ttcportals.com/search/jobs/within/50/miles/of/41.49932/-81.69436050000002?radius=41.49932%2C-81.69436050000002%2C40&ns_location=Cleveland%2C+OH%2C+USA)
 * [Park Place Technologies](http://www.parkplacetechnologies.com/) - recently bought [Axentel](http://axentel.com/)
 * [Patriot Software](https://www.patriotsoftware.com/about/careers/positions/)
 * [PCC Airfoils](http://www.pccairfoils.com/business_units/mentor/)
@@ -398,7 +400,7 @@ And thank you for your help!
 * [Vantage Partners](https://www.vantagepartners.com/about/careers/)
 * [Veritix](http://www.veritix.com/) - bought by [AXS](http://solutions.axs.com/)
 * [Veroot](https://www.veroot.com/)
-* [Vertex](http://www.vertexcs.com/)
+* [Vertex](http://www.vertexcs.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/vertex-computer-systems-inc)
 * [Vertical Knowledge](https://www.vertical-knowledge.com/)
 * [Viewray](http://www.viewray.com/index.htm)
 * [VIPerks](https://www.viperks.net/about/careers)
@@ -603,6 +605,9 @@ And thank you for your help!
 * [Find.jobs](https://find.jobs/)
 * [Adafruit Jobs Board](https://jobs.adafruit.com/)
 * [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
+* [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
+* [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
+* [DevOps Remote Work](https://devopsremote.work/)
 
 ## Recruiters
 
@@ -627,6 +632,7 @@ And thank you for your help!
 * [The Bit Factory](http://www.thebitfactory.com/)
 * [Bounce Hub](http://www.bouncehub.org/)
 * [Prototech](http://magnetprototech.org/)
+* [MAGNET - Manufacturing Advocacy & Growth Network](https://www.manufacturingsuccess.org/)
 * [StartMart](http://startmart.us/)
 * [Technology for Ohio's Tomorrow](http://tech4ohio.org/)
 * [Cleveland Health-Tech Corridor](http://www.healthtechcorridor.com/)
@@ -663,6 +669,8 @@ And thank you for your help!
 * [Akron AITP](https://akron-aitp.org/)
 * [Blockland](https://www.blocklandcleveland.com/)
 * [Ohio Aerospace Institute](http://www.oai.org/)
+* [TeamNEO](https://teamneo.org/)
+* [JobsOhio](https://www.jobsohio.com/)
 
 ## Freelance
 
@@ -702,6 +710,7 @@ And thank you for your help!
   * [Nomadlist](http://nomadlist.io/)
   * [Workfrom](https://workfrom.co/)
   * [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
+
 
 ## Other Links
 
