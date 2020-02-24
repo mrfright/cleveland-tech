@@ -609,6 +609,7 @@ And thank you for your help!
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
 * [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
 * [DevOps Remote Work](https://devopsremote.work/)
+* [cleveland.com job search](https://jobs.cleveland.com/Jobs/technology-jobs-in-cleveland-oh)
 
 ## Recruiters
 
