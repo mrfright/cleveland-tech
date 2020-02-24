@@ -610,6 +610,7 @@ And thank you for your help!
 * [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
 * [DevOps Remote Work](https://devopsremote.work/)
 * [cleveland.com job search](https://jobs.cleveland.com/Jobs/technology-jobs-in-cleveland-oh)
+* [CareerBuilder](https://www.careerbuilder.com/jobs?utf8=%E2%9C%93&keywords=&location=Cleveland%2C+OH)
 
 ## Recruiters
 
