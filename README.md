@@ -63,6 +63,7 @@ And thank you for your help!
 * [Assurant Labs](https://www.assurantlabs.com/careers/)
 * [Asurint](https://www.asurint.com/) - their [job applications page](https://recruiting.paylocity.com/recruiting/jobs/List/1142/N9187---One-Source-Technology-LLC)
 * [Athersys](http://athersys.com/)
+* [Augment Therapy](https://augmenttherapy.com/)
 * [Axuall](https://www.axuall.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/axuall)
 * [Avantia](http://www.eavantia.com/home)
 * [AvatarFleet](https://www.avatarfleet.com/about/work-at-avatarfleet/)
@@ -291,6 +292,7 @@ And thank you for your help!
 * [One Call Now](www.onecallnow.com)
 * [OneCommunity](http://www.onecommunity.org/)
 * [OneSky](http://www.onesky.com/)
+* [One up](http://www.playoneup.com/)
 * [Onix](http://www.onixnet.com/index.php)
 * [ONOSYS](http://www.onosys.com/)
 * [OnShift](http://www.onshift.com/)
@@ -326,6 +328,7 @@ And thank you for your help!
 * [Quadax](https://www.linkedin.com/jobs/search?f_C=84705&locationType=Y&trk=careers_promo_module_see_jobs) - their site [here](https://quadax.com/Support/ContactUs.htm)
 * [quo](https://www.rentquo.com/)
 * [Randstad](https://www.randstadusa.com/)
+* [Ranger Labs](https://rangerlabs.io/)
 * [Realeflow](http://realeflow.com/v2/)
 * [Revature](https://revature.com/careers/?Location=Cleveland%2C+OH&Department=Software+Development&submit=FILTER)
 * [recess creative](http://www.recesscreative.com/)
@@ -336,6 +339,7 @@ And thank you for your help!
   * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/resolvit-llc) with jobs like [embedded C++ in Mayfield Heights](https://stackoverflow.com/jobs/254503/c-plus-plus-software-engineer-resolvit-llc)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
+* [River Cap](https://www.rivercapllc.com/careers/)
 * [Robots and Pencils](https://robotsandpencils.com/)
 * [Rockwell Automation](http://www.rockwellautomation.com/rockwellautomation/index.page?)
 * [Root Integration](http://www.rootintegration.com/)
@@ -608,6 +612,9 @@ And thank you for your help!
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
 * [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
 * [DevOps Remote Work](https://devopsremote.work/)
+* [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs)
+* [OhioJobsForAll subreddit](https://www.reddit.com/r/OhioJobsForAll/)
+  * [Google spreadsheet of jobs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRniSacTFeBc8vkTaAnCgGh5QrNgmTFSoko9hoOWb-5W27nnHuKhCko7_B3IQC4FgqSTCBsVfVpB5tc/pubhtml)
 
 ## Recruiters
 
