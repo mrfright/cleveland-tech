@@ -348,6 +348,7 @@ And thank you for your help!
 * [Root Integration](http://www.rootintegration.com/)
 * [Roundtable](http://www.roundtablelearning.com/)
 * [RPM](http://www.rpminc.com/)
+* [Rugged 3D](https://rugged3d.com/)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [Sapience](https://www.dice.com/company/10405949) - with jobs like [Embedded Developer](https://www.dice.com/jobs/detail/Embedded-Developer-Sapience%2C-Inc-Cleveland-OH-44101/10405949/480718) on Dice
 * [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
