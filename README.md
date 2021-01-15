@@ -33,6 +33,7 @@ And thank you for your help!
 
 * [1 EDI Source](http://www.1edisource.com/)
 * [121eCommerce](https://www.121ecommerce.com/)
+* [1848 Ventures](https://www.1848ventures.com/) - their [Stack Overflow jobs page](https://stackoverflow.com/jobs/companies/1848-ventures)
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
