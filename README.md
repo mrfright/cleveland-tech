@@ -297,7 +297,7 @@ And thank you for your help!
 * [OneCommunity](http://www.onecommunity.org/)
 * [OneSky](http://www.onesky.com/)
 * [One up](http://www.playoneup.com/)
-* [Onix](http://www.onixnet.com/index.php)
+* [Onix](https://www.onixnet.com/)
 * [ONOSYS](http://www.onosys.com/)
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
