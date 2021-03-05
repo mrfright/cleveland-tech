@@ -112,6 +112,7 @@ And thank you for your help!
 * [ClickShake games](http://www.clickshakegames.com/)
 * [Cloud CMS](https://www.cloudcms.com/careers.html)
 * [CodeRed](https://www.coderedcorp.com/)
+* [Codesummit](https://codesummit.com/company/careers/)
 * [Coffee and Code](http://www.coffeeandcode.com/)
 * [Company 119](https://www.company119.com/)
 * [Complion](https://complion.com/)
