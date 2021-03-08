@@ -394,6 +394,7 @@ And thank you for your help!
 * [Think-a-move](http://think-a-move.com/)
 * [Think-Digital](http://www.think-digital.com/)
 * [thunder::tech](http://www.thundertech.com/)
+* [Tiger Pistol](https://www.tigerpistol.com/careers/)
 * [Timocco](http://www.timocco.com/)
 * [Tiny Circuits](https://tiny-circuits.com/)
 * [TOA Tech](http://toatech.com/) - aquired by Oracle
