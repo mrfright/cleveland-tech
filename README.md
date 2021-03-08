@@ -369,6 +369,7 @@ And thank you for your help!
 * [Sociogram](http://sociagram.com/)
 * [Softosource](http://softosource.com/)
 * [SpaceBound](http://spacebound.com/)
+* [Sparkbox](https://sparkbox.com/contact#careers)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
 * [Splash Financial](https://splashfinancial.com/careers) - [their Stack Overflow page](https://stackoverflow.com/jobs/companies/splash-financial)
 * [SplashLink](https://www.splashlink.com/Home.aspx)
