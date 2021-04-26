@@ -313,6 +313,7 @@ And thank you for your help!
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com) - their [job search](http://parkercareers.ttcportals.com/search/jobs/within/50/miles/of/41.49932/-81.69436050000002?radius=41.49932%2C-81.69436050000002%2C40&ns_location=Cleveland%2C+OH%2C+USA)
 * [Park Place Technologies](http://www.parkplacetechnologies.com/) - recently bought [Axentel](http://axentel.com/)
+* [PartsSource Inc.](https://www.partssource.com/) - [Current Job Openings](https://corporate.partssource.com/about/careers/current-job-openings-at-partssource/)
 * [Patriot Software](https://www.patriotsoftware.com/about/careers/positions/)
 * [PCC Airfoils](http://www.pccairfoils.com/business_units/mentor/)
 * [PCRecruiter](https://www.pcrecruiter.net/) - by Main Sequence Technology
