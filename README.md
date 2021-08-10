@@ -383,6 +383,7 @@ And thank you for your help!
   * [SQRL](http://squirrelsresearch.com/) - their research group on things like crypto mining hardware
 * [Stack Overflow Cleveland company search](https://stackoverflow.com/jobs/companies?l=Cleveland%2c+OH%2c+United+States&d=50&u=Miles)
 * [STEMpowerkids](http://www.stempowerkids.com/)
+* [Stream9](https://www.stream9.net/)
 * [StreamLink](http://www.streamlinksoftware.com/)
 * [Summit Data Communications](http://www.summitdata.com/)
 * [Sundance Systems](https://www.sundance-sys.com/)
@@ -401,6 +402,7 @@ And thank you for your help!
 * [Timocco](http://www.timocco.com/)
 * [Tiny Circuits](https://tiny-circuits.com/)
 * [TOA Tech](http://toatech.com/) - aquired by Oracle
+* [TreeStone Media](https://treestone.com/)
 * [Trimble Transportation](https://www.trimble.com/transportation-logistics/index.aspx) - formerly [Transportation Management Software](https://www.tmwsystems.com/)
 * [Tribute Inc.](http://www.tribute.com/)
 * [Trilogy Education Services](http://www.trilogyed.com/careers/openings/) - coding boot camps, including Case
