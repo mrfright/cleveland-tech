@@ -180,7 +180,6 @@ And thank you for your help!
 * [Find.jobs](https://find.jobs/apply/)
 * [FeneTech](http://fenetech.com/)
 * [FIT Technologies](http://www.fittechnologies.com/)
-* [Flatiron Health](https://flatiron.com/careers/open-positions/)
 * [Fleetmatics](https://www.fleetmatics.com/)
 * [Fleet Response](https://www.fleetresponse.com/about-fr/careers/)
 * [FormFire](https://www.formfire.com/)
@@ -719,6 +718,7 @@ And thank you for your help!
   * [UserTesting](https://careers.smartrecruiters.com/UserTesting)
   * [Stitch Fix](https://www.stitchfix.com/careers?gh_jid=265107&gh_src=mi5xq81)
   * [Ceros](http://labs.ceros.com/jobs/#/)
+  * [Flatiron Health](https://flatiron.com/careers/open-positions/)
 * Cowork spaces
   * [CUBE Workspace](https://www.cubecleveland.com/getsomeworkdone.html)
   * [SPACES & CO.](http://spacesandco.com/)
