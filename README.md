@@ -414,6 +414,7 @@ And thank you for your help!
 * [Unify Labs](https://www.unifylabs.org/) - formerly Unify Project
 * [United Computer Group](http://www.ucgrp.com/)
 * [UrbanCode](http://www.urbancode.com/)
+* [USA Firmware](https://www.usafirmware.com/about-us/careers/)
 * [Vantage Partners](https://www.vantagepartners.com/about/careers/)
 * [Veritix](http://www.veritix.com/) - bought by [AXS](http://solutions.axs.com/)
 * [Veroot](https://www.veroot.com/)
