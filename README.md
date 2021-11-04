@@ -633,6 +633,7 @@ And thank you for your help!
   * [Google spreadsheet of jobs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRniSacTFeBc8vkTaAnCgGh5QrNgmTFSoko9hoOWb-5W27nnHuKhCko7_B3IQC4FgqSTCBsVfVpB5tc/pubhtml)
 * [cleveland.com job search](https://jobs.cleveland.com/Jobs/technology-jobs-in-cleveland-oh)
 * [CareerBuilder](https://www.careerbuilder.com/jobs?utf8=%E2%9C%93&keywords=&location=Cleveland%2C+OH)
+* [Memfault embedded job postings](https://interrupt.memfault.com/jobs/)
 
 ## Recruiters
 
