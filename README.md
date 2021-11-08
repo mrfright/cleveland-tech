@@ -200,6 +200,7 @@ And thank you for your help!
 * [H5 Data Centers](http://h5datacenters.com/)
 * [Hallsten Innovations](http://www.hallsteninnovations.com/)
 * [Handelabra Games](http://handelabra.com/about)
+* [Harmony Labs](https://harmonylabs.org/careers)
 * [Hatch](http://hatch.us.com/)
 * [hc1](https://www.hc1.com/)
 * [Hema Imaging](http://www.hemaimaging.com/)
