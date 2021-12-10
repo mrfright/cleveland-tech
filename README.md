@@ -253,6 +253,7 @@ And thank you for your help!
 * [Logic Junction](http://logicjunction.com/)
 * [LogiSync](http://logisync.com/)
 * [Longsight](http://www.longsight.com/)
+* [loopdash](https://loopdash.com/)
 * [Lufthouse](http://lufthouse.com/)
 * [LunchOwl](www.lunchowl.com/)
 * [MacroPoint](http://www.macropoint.com/)
