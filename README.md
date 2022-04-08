@@ -33,7 +33,7 @@ And thank you for your help!
 
 * [1 EDI Source](http://www.1edisource.com/)
 * [121eCommerce](https://www.121ecommerce.com/)
-* [1848 Ventures](https://www.1848ventures.com/) - their [Stack Overflow jobs page](https://stackoverflow.com/jobs/companies/1848-ventures)
+* [1848 Ventures](https://www.1848ventures.com/)
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
@@ -65,10 +65,9 @@ And thank you for your help!
 * [Asurint](https://www.asurint.com/) - their [job applications page](https://recruiting.paylocity.com/recruiting/jobs/List/1142/N9187---One-Source-Technology-LLC)
 * [Athersys](http://athersys.com/)
 * [Augment Therapy](https://augmenttherapy.com/)
-* [Axuall](https://www.axuall.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/axuall)
+* [Axuall](https://www.axuall.com/) 
 * [Avantia](http://www.eavantia.com/home)
 * [AvatarFleet](https://www.avatarfleet.com/about/work-at-avatarfleet/)
-  * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/avatarfleet)
 * [Avesta Systems](http://avestacorp.com/about-us/#careers)
 * [AVI Foodsystems](http://www.careerbuilder.com/jobs-at-avi--foodsystems--inc/CHM14W6B55S1VMPJY8T?cat1=JN008)
 * [Avvenire Solutions](http://www.avvenireinc.com/)
@@ -86,7 +85,6 @@ And thank you for your help!
 * [Blackbird Digital](https://blackbird.digital/contact-us/)
 * [BlueBridge Networks](http://www.bluebridgenetworks.com/)
 * [Blue Chip Consulting](https://www.bluechip-llc.com/)
-  * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/blue-chip-consulting-group)
 * [BlueFrog](http://bluefroggaming.com)
 * [Bomzy Apps](http://www.bomzyapps.com/)
 * [Bosch](http://www.bosch.us/content/language1/html/index.htm)
@@ -101,7 +99,7 @@ And thank you for your help!
 * [BudgetDumpster](http://www.budgetdumpster.com/)
 * [Buyerquest](http://www.buyerquest.com/)
 * [Capricorn Systems](http://www.capricornsys.com/jobs.html) - jobs like [Embedded C/C++ Programmers](https://www.dice.com/jobs/detail/c8cec17d423b240f2a7eda3b71a0df65?src=32&CMPID=AG_ZR_PD_JS_US_OG_RC_&utm_campaign=Advocacy_Ongoing&utm_medium=Aggregator&utm_source=ZipRecuiter&rx_campaign=ziprecruiter51&rx_group=100954&rx_job=capricor%2Fc8cec17d423b240f2a7eda3b71a0df65&rx_medium=cpc&rx_source=ziprecruiter&zip_cid=53898569-12fd-48d0-9cfa-6c38a7920755) on Dice
-* [Cardinal Commerce](https://www.cardinalcommerce.com/careers), job posting on [Stack Overflow](http://stackoverflow.com/jobs/companies/cardinalcommerce)
+* [Cardinal Commerce](https://www.cardinalcommerce.com/careers)
 * [C by GE](https://www.cbyge.com/)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
 * [Centric Consulting](https://centricconsulting.com/about-us/careers/job-openings/)
@@ -123,7 +121,6 @@ And thank you for your help!
 * [CT Logistics](http://www.ctlogistics.com/)
 * [Custom Orthopaedics](http://customorthopaedics.com/)
   * [Recruiter Box career page](https://customorthopaedics.recruiterbox.com/)
-  * [Stack Overflow career page](https://stackoverflow.com/jobs/companies/custom-orthopaedic-solutions)
 * [Cynergies](https://cynergies.net/)
 * [Dakota Soft](http://www.dakotasoft.com/)
 * [Data-Basics](http://www.databasics.com/)
@@ -167,7 +164,7 @@ And thank you for your help!
 * [Everkey](https://everykey.com/)
 * [Everstream](http://everstream.net/)
 * [Excellware](http://www.excellware.com/)
-* [ExchangeBase](https://www.exchangebase.com/) - position on [StackOverflow](https://stackoverflow.com/jobs/279926/software-development-manager-exchangebase)
+* [ExchangeBase](https://www.exchangebase.com/)
 * [Expand Interactive](http://www.expandinteractive.com/)
 * [Expedient](https://www.expedient.com/company/careers-opportunities/)
 * [ExpenseBot](http://expensebot.com/)
@@ -212,7 +209,7 @@ And thank you for your help!
 * [Hyland](https://www.onbase.com/), creator of OnBase
 * [HyperProductive](http://www.hyperproductive.com/)
 * [Hyr Medical](https://hyrmed.com/)
-* [ID Networks](http://www.idnetworks.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/idn)
+* [ID Networks](http://www.idnetworks.com/)
 * [imageNation](http://inwebexperts.com/)
 * [Imagine Careers](http://www.imaginecareers.com/)
 * [INCOM](https://www.netincom.com/)
@@ -277,7 +274,7 @@ And thank you for your help!
 * [Mod Meals](http://mod-meals.com/)
 * [Monarch Teaching Technology](https://www.monarchtt.com/)
 * [Moreland Connect](http://www.morelandconnect.com/careers/)
-* [Moss Corporation](http://www.mossaffiliatemarketing.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/moss-corporation)
+* [Moss Corporation](http://www.mossaffiliatemarketing.com/)
 * [MRI Software](http://www.mrisoftware.com/)
 * [MTD](http://www.mtdproducts.com/equipment/en/mtdproducts) - they're getting into robotic mowers
 * [mv|designlabs](https://www.mvdesignlabs.com/)
@@ -290,7 +287,7 @@ And thank you for your help!
 * [New York Community Bank](https://www.mynycb.com/Pages/home.aspx)
 * [NEXT Internet](http://www.netxinternet.com/)
 * [NK Web Development](http://nkwebdevelopment.com/employment-programmer)
-* [Nordson](http://www.nordson.com/en/our-company/careers) - [USA jobs](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers), [stack overflow](https://stackoverflow.com/jobs/companies/nordson-corporation)
+* [Nordson](http://www.nordson.com/en/our-company/careers) - [USA jobs](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers)
 * [Notice Software](http://noticesoftware.com/)
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
 * [n2y](https://www.n2y.com/)
@@ -308,7 +305,7 @@ And thank you for your help!
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
 * [Osmisys](http://www.osmisys.com/)
-* [OverDrive](https://www.overdrive.com/) - their [careers page](https://company.overdrive.com/careers/), [Stack Overflow page](https://stackoverflow.com/jobs/companies/overdrive-inc)
+* [OverDrive](https://www.overdrive.com/) - their [careers page](https://company.overdrive.com/careers/)
 * [Ownum](https://ownum.io/) - blockchain company started by car salesman that started Blockland
   * [CHAMPTitles](https://www.champtitles.com/) - car titles on the blockchain
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
@@ -347,7 +344,6 @@ And thank you for your help!
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
 * [Renovo](http://renovo1.com/)
 * [Resolvit](http://careers.resolvit.com/Home/countryId/1/stateId/OH)
-  * [their Stack Overflow page](https://stackoverflow.com/jobs/companies/resolvit-llc) with jobs like [embedded C++ in Mayfield Heights](https://stackoverflow.com/jobs/254503/c-plus-plus-software-engineer-resolvit-llc)
 * [Revenue Conduit](http://revenueconduit.com/)
 * [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
 * [River Cap](https://www.rivercapllc.com/careers/)
@@ -377,14 +373,13 @@ And thank you for your help!
 * [SpaceBound](http://spacebound.com/)
 * [Sparkbox](https://sparkbox.com/contact#careers)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
-* [Splash Financial](https://splashfinancial.com/careers) - [their Stack Overflow page](https://stackoverflow.com/jobs/companies/splash-financial)
+* [Splash Financial](https://splashfinancial.com/careers) 
 * [SplashLink](https://www.splashlink.com/Home.aspx)
 * [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
 * [SPR Theraputics](http://www.sprtherapeutics.com/)
 * [Squirrels](http://www.airsquirrels.com/jobs/)
   * [SQRL](http://squirrelsresearch.com/) - their research group on things like crypto mining hardware
-* [Stack Overflow Cleveland company search](https://stackoverflow.com/jobs/companies?l=Cleveland%2c+OH%2c+United+States&d=50&u=Miles)
 * [STEMpowerkids](http://www.stempowerkids.com/)
 * [Stream9](https://www.stream9.net/)
 * [StreamLink](http://www.streamlinksoftware.com/)
@@ -392,7 +387,7 @@ And thank you for your help!
 * [Sundance Systems](https://www.sundance-sys.com/)
 * [Swagelok](http://www.swagelok.com/en)
 * [SyncShow](http://syncshow.com/)
-* [Synopsys](https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html) - their [stackoverflow page](https://stackoverflow.com/jobs/companies/synopsys) has Cleveland jobs
+* [Synopsys](https://www.synopsys.com/company/synopsys-careers/careers-portal-search.html)
 * [Tackk](http://tackk.com/)
 * [tallyo](http://tallyo.com/)
 * [TEKsystems](https://www.teksystems.com/it-careers) - jobs like [Desktop Support Technician](https://www.dice.com/jobs/detail/Desktop-Support-Technician-TEKsystems%2C-Inc.-Twinsburg-OH-44087/10105424/6393250%26%2345531?icid=sr10-1p&q=&l=Cleveland,%20OH) on Dice
@@ -421,7 +416,7 @@ And thank you for your help!
 * [Vantage Partners](https://www.vantagepartners.com/about/careers/)
 * [Veritix](http://www.veritix.com/) - bought by [AXS](http://solutions.axs.com/)
 * [Veroot](https://www.veroot.com/)
-* [Vertex](http://www.vertexcs.com/) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/vertex-computer-systems-inc)
+* [Vertex](http://www.vertexcs.com/)
 * [Vertical Knowledge](https://www.vertical-knowledge.com/)
 * [Viewray](http://www.viewray.com/index.htm)
 * [VIPerks](https://www.viperks.net/about/careers)
@@ -449,7 +444,7 @@ And thank you for your help!
 * [WTWH Media](http://www.wtwhmedia.com/)
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
 * [Zin Technologies](http://www.zin-tech.com/)
-* [Zircoa](http://www.zircoa.com/index.html) - their [Stack Overflow page](https://stackoverflow.com/jobs/companies/zircoa)
+* [Zircoa](http://www.zircoa.com/index.html)
 
 
 ## Coding Bootcamps
@@ -584,9 +579,6 @@ And thank you for your help!
 
 * [Cleveland Career Board](http://cleveland.careerboard.com/)
 * [GeekWork](geekwork.com)
-* [Stack Overflow Cleveland job search](https://stackoverflow.com/jobs?sort=i&l=Cleveland%2C+OH%2C+United+States&d=50&u=Miles)
-  * [Stack Overflow remote job search](https://stackoverflow.com/jobs/remote-developer-jobs?sort=i)
-  * [Career Overflow](http://careers.stackoverflow.com) but that seems to be different now
 * [Indeed](http://www.indeed.com/) - IT Hare made a [programmer or developer filter](http://ithare.com/recent-software-jobs/?q=(programmer+or+developer)) for Indeed
 * [Cleveland Career Site](http://www.clevelandcareersite.com/)
 * [Ohio unemployment](https://unemployment.ohio.gov/)
