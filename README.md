@@ -583,6 +583,7 @@ And thank you for your help!
 * [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
 * [Cleveland Tech Summit](http://cleveland-summit.com/)
 * [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
+* [Futureland](https://www.futurelandcle.com/)
 
 ## Job Search Sites
 
