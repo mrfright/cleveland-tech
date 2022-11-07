@@ -701,8 +701,9 @@ And thank you for your help!
 * [Akron AITP](https://akron-aitp.org/)
 * [Blockland](https://www.blocklandcleveland.com/)
 * [Ohio Aerospace Institute](http://www.oai.org/)
-* [TeamNEO](https://teamneo.org/)
+* [TeamNEO](https://teamneo.org/) - now Northeast Ohio Region, with industries like [IT](https://northeastohioregion.com/industries/information-technology/)
 * [JobsOhio](https://www.jobsohio.com/)
+* 
 
 ## Freelance
 
