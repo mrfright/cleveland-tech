@@ -190,6 +190,7 @@ And thank you for your help!
 * [Functional Jobs](http://functionaljobs.com/jobs/search/?q=cleveland)
 * [Futuri Media](https://futurimedia.com/jobs/)
 * [GamesInCle](http://www.gamesincle.com/)
+* [GE Current](https://www.gecurrent.com/careers)
 * [GE Lighting](http://www.ge.com/careers/opportunities)
 * [GenomeOncology](http://www.genomoncology.com/)
 * [Gestalt IT](http://gestaltit.com/)
