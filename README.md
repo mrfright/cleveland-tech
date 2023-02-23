@@ -494,7 +494,7 @@ And thank you for your help!
 * [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
 * [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
 * [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
-* [Cleveland Tech Slack](https://cleveland-tech.slack.com) - register to get your invite [here](https://cleveland-tech.herokuapp.com/)
+* [Cleveland Tech Slack](https://cleveland-tech.slack.com) - register to get your invite [here](https://cleveland-tech.vercel.app/)
 * [Cleveland Web Design and Development (CLE WDD)](https://www.meetup.com/CLE-WDD/)
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Crypto Cleveland](https://www.meetup.com/Crypto-Cleveland/)
