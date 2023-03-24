@@ -178,7 +178,6 @@ And thank you for your help!
 * [Fello](https://hifello.com/)
 * [Felux](https://www.felux.com/)
 * [FeneTech](http://fenetech.com/)
-* [Findaway](http://findaway.com/) - [Findaway World](http://www.findawayworld.com/) redirects here now, their [Jobs page](https://careers.smartrecruiters.com/Findaway/)
 * [Find.jobs](https://find.jobs/apply/)
 * [FIT Technologies](http://www.fittechnologies.com/)
 * [Fleetmatics](https://www.fleetmatics.com/)
