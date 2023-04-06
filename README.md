@@ -480,7 +480,7 @@ And thank you for your help!
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
   * [Open Geo Cleveland](https://twitter.com/opengeocle) - seems defunct, points to Open Cleveland's meetup
 * [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
-* [synHAK](http://synhak.org/home/) - now [Akron Makerspace](http://akronmakerspace.org/)?
+* [Akron Makerspace](http://akronmakerspace.org/) - Formerly synHAK
 * [Akron Women in Tech](http://akronwit.org/)
 * [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
 * [Cleveland Big Data & Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
