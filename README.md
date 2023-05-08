@@ -479,7 +479,6 @@ And thank you for your help!
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
   * [Open Geo Cleveland](https://twitter.com/opengeocle) - seems defunct, points to Open Cleveland's meetup
-* [Akron Front End Deveopment](https://www.meetup.com/Akron-Front-End-Development/)
 * [Akron Makerspace](http://akronmakerspace.org/) - Formerly synHAK
 * [Akron Women in Tech](http://akronwit.org/)
 * [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
@@ -517,6 +516,7 @@ And thank you for your help!
 * [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
 * [Web Association CLE](https://mobile.twitter.com/WebCleveland)
 * [Northern Ohio Amateur Radio Society](https://www.noars.net/)
+* [Code Youngstown](https://codeyoungstown.com/)
 
 ## Events
 
@@ -579,7 +579,7 @@ And thank you for your help!
 * [N.E. Geek Expo](http://www.negeekexpo.com/)
 * [Cleveland Metroparks Hackathon](https://www.clevelandmetroparks.com/hackathon) - redirects to [here](https://www.clevelandmetroparks.com/special-pages/hackathoncleveland)
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
-* [Hack YSU](http://hackysu.com/)-YSU's annual hackathon
+* [Hack YSU](http://hackysu.com/) - YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
 * [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
 * [Cleveland Tech Summit](http://cleveland-summit.com/)
