@@ -705,7 +705,7 @@ And thank you for your help!
 * [Ohio Aerospace Institute](http://www.oai.org/)
 * [TeamNEO](https://teamneo.org/) - now Northeast Ohio Region, with industries like [IT](https://northeastohioregion.com/industries/information-technology/)
 * [JobsOhio](https://www.jobsohio.com/)
-* 
+* [Youngstown Business Incubator - YBI](https://ybi.org/)
 
 ## Freelance
 
