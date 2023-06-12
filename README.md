@@ -641,6 +641,18 @@ And thank you for your help!
 * [Memfault embedded job postings](https://interrupt.memfault.com/jobs/)
 * [USA Jobs Available](https://datastudio.google.com/u/0/reporting/314b5202-dc1c-497a-b233-0a5e92730c84/page/oixjB)
 * [People-First Jobs](https://peoplefirstjobs.com/jobs)
+* [FlexJobs](https://www.flexjobs.com/)
+* [Remotive](https://remotive.com/)
+* [JustRemote](https://justremote.co/)
+* [Working Nomads](https://www.workingnomads.com/jobs)
+* [Flexa Careers](https://flexa.careers/)
+* [Remote.co](https://remote.co/)
+* [Pangian](https://pangian.com/)
+* [Dynamite Jobs remote jobs](https://dynamitejobs.com/remote-jobs)
+* [Underdog.io](https://underdog.io/)
+* [Remote Work Junkie](https://jobs.remoteworkjunkie.com/)
+* [Skip the Drive](https://www.skipthedrive.com/)
+* [WellFound](https://wellfound.com/jobs)
 
 ## Recruiters
 
