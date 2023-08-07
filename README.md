@@ -377,6 +377,7 @@ And thank you for your help!
 * [Snap-on](http://sbs.snapon.com/)
 * [Sociogram](http://sociagram.com/)
 * [Softosource](http://softosource.com/)
+* [SOTI](https://soti.net)
 * [Spang Power Electronics](https://www.spangpower.com/)
 * [SpaceBound](http://spacebound.com/)
 * [Sparkbox](https://sparkbox.com/contact#careers)
