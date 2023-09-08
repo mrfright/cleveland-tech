@@ -244,6 +244,7 @@ And thank you for your help!
 * [Konica Minolta](http://konicaminoltaus.jobs/jobsearch/#All~Job~Categories|S::OH||d-ASC|1)
 * [LayerZero](http://www.layerzero.com/index.html)
 * [Lazorpoint](http://www.lazorpoint.com/)
+* [Lazurite](https://lazurite.co/)
 * [LeadLift](https://www.leadlift.com/)
 * [Leap Amabassadors Community](https://leapambassadors.org/)
 * [Level Seven](http://www.lvlsvn.com/)
