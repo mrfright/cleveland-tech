@@ -773,7 +773,6 @@ And thank you for your help!
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote. [site here](http://j-delaney.github.io/easy-application/)
 * [Best Places to Live for Tech Entrepreneurs](http://www.techinsurance.com/resources/best-places-to-live/cleveland-oh/)
 * [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh), they post upcoming events on their [Twitter](https://twitter.com/nplexCLE)
-* [Crain's Cleveland Business list of companies that employ software developers](http://www.crainscleveland.com/article/99999999/DATA/500010564/software-developers)
 * [CLK Tech](http://www.clktech.io/)
 * [Cleveland Tech News](https://twitter.com/CleTechNews) - [their site](http://clevelandtechnews.com/), seems inactive for a few months
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
