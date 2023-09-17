@@ -382,7 +382,7 @@ And thank you for your help!
 * [SpaceBound](http://spacebound.com/)
 * [Sparkbox](https://sparkbox.com/contact#careers)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
-* [Splash Financial](https://splashfinancial.com/careers) 
+* [Splash Financial](https://splashfinancial.com/careers)
 * [SplashLink](https://www.splashlink.com/Home.aspx)
 * [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
@@ -457,7 +457,6 @@ And thank you for your help!
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
 * [Zin Technologies](http://www.zin-tech.com/)
 * [Zircoa](http://www.zircoa.com/index.html)
-
 
 ## Coding Bootcamps
 
@@ -633,7 +632,7 @@ And thank you for your help!
 * [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
 * [Ohio To Work](https://ohiotowork.com/)
-* [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
+* [Remote Masters](https://remotemasters.dev/) with [fully remote](https://remotemasters.dev/fully-remote-companies) or [remote-first](https://remotemasters.dev/remote-first-companies) companies and job posts
 * [DevOps Remote Work](https://devopsremote.work/)
 * [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs)
 * [OhioJobsForAll subreddit](https://www.reddit.com/r/OhioJobsForAll/)
@@ -677,7 +676,7 @@ And thank you for your help!
 * [FlashStarts](http://www.flashstarts.com/)
 * [LeanDog](http://leandog.com/)
 * [Cleveland Leadership](http://www.cleveleads.org/)
-* [BioMotiv ](http://www.biomotiv.com/)
+* [BioMotiv](http://www.biomotiv.com/)
 * [The Bit Factory](http://www.thebitfactory.com/)
 * [Bounce Hub](http://www.bouncehub.org/) - their [Twitter](https://twitter.com/Bounce_Hub)
 * [Prototech](http://magnetprototech.org/)
@@ -700,7 +699,7 @@ And thank you for your help!
 * [Greater Cleveland Partnership](https://www.gcpartnership.com/)
 * [TechGROWTH Ohio](https://twitter.com/techgrowthohio)
 * [Health IT in the CLE](http://hitinthecle.com/)
-* [Benesch 3D Printing Group ](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
+* [Benesch 3D Printing Group](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
 * [Global Center for Health Innovation](http://www.theglobalcenter.com/)
 * [EDGE](http://www.edgef.org/)
 * [COSE - Council of Smaller Enterprises](http://www.cose.org/)
@@ -762,7 +761,6 @@ And thank you for your help!
   * [Nomadlist](http://nomadlist.io/)
   * [Workfrom](https://workfrom.co/)
   * [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
-
 
 ## Other Links
 
