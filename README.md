@@ -521,31 +521,20 @@ And thank you for your help!
 
 ## Events
 
-* [Height Code Hop](http://heights-code-hop.org/)
 * [PyOhio](http://www.pyohio.org/)
 * [The Industry Digital Summit](http://indsum.com/), put on by [Product Collective](http://productcollective.com/)
 * [TechPint](http://www.techpint.org/)
-* [NOTACON](http://www.notacon.org/)
-* [Rockathon](http://www.rockathoncleveland.com/)
 * [IngenuityFest](http://ingenuitycleveland.com/)
-* [NorTech UnConference](http://www.nortechuncon.com/)
-* [Engines of Ingenuity Summit](http://ingenuitycleveland.com/engines/)
 * [B-Sides](http://bsidescle.com/)
   * [another URL](https://www.bsidescleveland.com/)
-* [Night Makers Ball](http://www.nightmakersball.com/)
 * [Ohio LinuxFest](http://ohiolinux.org/)
 * [Weapons of Mass Creation](https://wmcfest.com/)
 * [Cleveland Tech Events](http://www.clevelandtechevents.com/), their [Twitter](https://twitter.com/cletechevents), [their calendar](https://techeventsnetwork.com/cities/cleveland/)
   * a similar [Cleveland Tech Events](https://twitter.com/clevtechevents)
-* [Tech Week](http://www.techweekneo.com/)
-* [Cleveland Give Camp](clevelandgivecamp.org)
-* [NEXT Ohio](http://www.nextohio.com/)
-* [Entrovation](http://www.entrovation.com/)
+* [Cleveland Give Camp](http://clevelandgivecamp.org)
 * [Classic console and arcade game show](http://www.ccagshow.com/)
 * [Retro Exchange Cleveland](https://www.facebook.com/retroexchangecleveland/)
 * [Stir Trek](http://www.stirtrek.com/)
-* [Tribe hackathon](http://www.tribehackathon.com/)
-* [Cleveland Medical Hackathon](http://clevelandmedicalhackathon.com/)
 * [Dayton Hamvention](http://hamvention.org/)
 * [Cleveland Pinball and Arcade Show](http://clevelandpinballshow.com/Homepage)
 * [Information Security Summit](https://www.informationsecuritysummit.org/), their [Twitter](https://twitter.com/NEOSecSummit)
@@ -568,9 +557,7 @@ And thank you for your help!
 * [GiveBackHack](https://givebackhack.com/cleveland/)
 * [PyCon in Cleveland 2018 and 2019](https://us.pycon.org/)
 * [HAkron](https://hakron.io/)
-* [CLE Housing Hackathon](http://clehousinghack.org/)
 * [Tandy Assembly](http://www.tandyassembly.com/)
-* [Tech Corps Northeast Ohio programs](http://techcorps.org/programs?f[0]=field_location_lookup%253Afield_region%3A49)
 * [Tecmo Cleveland](https://www.tecmocleveland.com/)
 * [The Side Quest](http://www.thesidequestbar.com/) - local nerd bar, not exactly tech but lots of interesting events
 * [Observatory Park](https://www.geaugaparkdistrict.org/parks/observatorypark.shtml) - a Dark Sky park
@@ -578,12 +565,10 @@ And thank you for your help!
 * [TechInvest](https://techinvest.wpengine.com/)
 * [GDEX](https://www.thegdex.com/) - "The Midwest's Premier Gaming Expo"
 * [N.E. Geek Expo](http://www.negeekexpo.com/)
-* [Cleveland Metroparks Hackathon](https://www.clevelandmetroparks.com/hackathon) - redirects to [here](https://www.clevelandmetroparks.com/special-pages/hackathoncleveland)
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/) - YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
 * [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
-* [Cleveland Tech Summit](http://cleveland-summit.com/)
 * [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 * [Futureland](https://www.futurelandcle.com/)
 
