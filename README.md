@@ -14,8 +14,6 @@ Still not sure?  Just submit a pull request!  The fact you're considering means 
 
 And thank you for your help!
 
-
-
 ## Table of Contents
 
 * [Cleveland Companies](#cleveland-companies)
@@ -37,7 +35,7 @@ And thank you for your help!
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
-* [33 Mile Radius ](https://www.33mileradius.com/)
+* [33 Mile Radius](https://www.33mileradius.com/)
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
