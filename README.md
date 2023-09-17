@@ -771,7 +771,6 @@ And thank you for your help!
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote. [site here](http://j-delaney.github.io/easy-application/)
-  * [Computer Science Jobs](https://csjobs.co/) - based on Easy Application
 * [Best Places to Live for Tech Entrepreneurs](http://www.techinsurance.com/resources/best-places-to-live/cleveland-oh/)
 * [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh), they post upcoming events on their [Twitter](https://twitter.com/nplexCLE)
 * [Crain's Cleveland Business list of companies that employ software developers](http://www.crainscleveland.com/article/99999999/DATA/500010564/software-developers)
