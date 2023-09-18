@@ -475,7 +475,6 @@ And thank you for your help!
   * [Open Cleveland](http://www.opencleveland.org/)
     * they do projects like [Cleveland Lots](http://clevelandlots.org/)
   * [Open Geo Cleveland](https://mobile.twitter.com/opengeocle)
-  * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
@@ -498,7 +497,6 @@ And thank you for your help!
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Crypto Cleveland](https://www.meetup.com/Crypto-Cleveland/)
 * [CLEVR Facebook Group](https://www.facebook.com/groups/clevrcommunity/) | [CLEVR Facebook Page](https://www.facebook.com/clevrcommunity/)
-* [Digital Free Initiative](https://digitalfreedominitiative.org/)
 * [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [GiveSec](https://givesec.org/)
@@ -508,14 +506,12 @@ And thank you for your help!
 * [Soulcraft woodshop](http://soulcraftwoodshop.com/), also see [Soulcraft CLE](http://soulcraftcle.org/)
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 * [Cleveland Locksport](https://twitter.com/CLELocksport)
-* [Tech4Good Cleveland](http://tech4goodcle.org/)
 * [UXPA Cleveland](https://www.uxpacleveland.org/)
 * [Flux Makerspace](http://www.fluxmakerspace.com/)
 * [Studio How-To](https://www.studiohow-to.com/)
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
 * [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
-* [Web Association CLE](https://mobile.twitter.com/WebCleveland)
 * [Northern Ohio Amateur Radio Society](https://www.noars.net/)
 * [Code Youngstown](https://codeyoungstown.com/)
 
