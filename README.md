@@ -14,8 +14,6 @@ Still not sure?  Just submit a pull request!  The fact you're considering means 
 
 And thank you for your help!
 
-
-
 ## Table of Contents
 
 * [Cleveland Companies](#cleveland-companies)
@@ -37,7 +35,7 @@ And thank you for your help!
 * [216digital](https://216digital.com/)
 * [216 Software](http://216software.com/)
 * [2strand](https://www.2strand.com/)
-* [33 Mile Radius ](https://www.33mileradius.com/)
+* [33 Mile Radius](https://www.33mileradius.com/)
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
@@ -384,7 +382,7 @@ And thank you for your help!
 * [SpaceBound](http://spacebound.com/)
 * [Sparkbox](https://sparkbox.com/contact#careers)
 * [Specialized Business Software](http://www.specializedbusinesssoftware.com/)
-* [Splash Financial](https://splashfinancial.com/careers) 
+* [Splash Financial](https://splashfinancial.com/careers)
 * [SplashLink](https://www.splashlink.com/Home.aspx)
 * [Sprokets](https://www.sprokets.co)
 * [SproutsIO](https://www.sprouts.io/careers)
@@ -460,7 +458,6 @@ And thank you for your help!
 * [Zin Technologies](http://www.zin-tech.com/)
 * [Zircoa](http://www.zircoa.com/index.html)
 
-
 ## Coding Bootcamps
 
 * [WeCanCodeIT](https://wecancodeit.org/)
@@ -478,7 +475,6 @@ And thank you for your help!
   * [Open Cleveland](http://www.opencleveland.org/)
     * they do projects like [Cleveland Lots](http://clevelandlots.org/)
   * [Open Geo Cleveland](https://mobile.twitter.com/opengeocle)
-  * [Hack Cleveland](http://www.hackcleveland.org/#about)
   * [openNEO](http://openneo.org/)
   * [Cleveland data sets](http://us-city.census.okfn.org/place/cleveland)
   * [Civic Insights Hub](http://www.civicinsights.org/) by Digital C
@@ -501,7 +497,6 @@ And thank you for your help!
 * [CodeAkron](http://codeakron.com/), their [Facebook](https://www.facebook.com/codeakron)
 * [Crypto Cleveland](https://www.meetup.com/Crypto-Cleveland/)
 * [CLEVR Facebook Group](https://www.facebook.com/groups/clevrcommunity/) | [CLEVR Facebook Page](https://www.facebook.com/clevrcommunity/)
-* [Digital Free Initiative](https://digitalfreedominitiative.org/)
 * [Elixir |> CLE](http://www.meetup.com/Elixir-CLE/)
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [GiveSec](https://givesec.org/)
@@ -511,44 +506,31 @@ And thank you for your help!
 * [Soulcraft woodshop](http://soulcraftwoodshop.com/), also see [Soulcraft CLE](http://soulcraftcle.org/)
 * [Women Who Code Cleveland](https://www.womenwhocode.com/cleveland)
 * [Cleveland Locksport](https://twitter.com/CLELocksport)
-* [Tech4Good Cleveland](http://tech4goodcle.org/)
 * [UXPA Cleveland](https://www.uxpacleveland.org/)
 * [Flux Makerspace](http://www.fluxmakerspace.com/)
 * [Studio How-To](https://www.studiohow-to.com/)
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
 * [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
-* [Web Association CLE](https://mobile.twitter.com/WebCleveland)
 * [Northern Ohio Amateur Radio Society](https://www.noars.net/)
 * [Code Youngstown](https://codeyoungstown.com/)
 
 ## Events
 
-* [Height Code Hop](http://heights-code-hop.org/)
 * [PyOhio](http://www.pyohio.org/)
 * [The Industry Digital Summit](http://indsum.com/), put on by [Product Collective](http://productcollective.com/)
 * [TechPint](http://www.techpint.org/)
-* [NOTACON](http://www.notacon.org/)
-* [Rockathon](http://www.rockathoncleveland.com/)
 * [IngenuityFest](http://ingenuitycleveland.com/)
-* [NorTech UnConference](http://www.nortechuncon.com/)
-* [Engines of Ingenuity Summit](http://ingenuitycleveland.com/engines/)
 * [B-Sides](http://bsidescle.com/)
   * [another URL](https://www.bsidescleveland.com/)
-* [Night Makers Ball](http://www.nightmakersball.com/)
 * [Ohio LinuxFest](http://ohiolinux.org/)
 * [Weapons of Mass Creation](https://wmcfest.com/)
 * [Cleveland Tech Events](http://www.clevelandtechevents.com/), their [Twitter](https://twitter.com/cletechevents), [their calendar](https://techeventsnetwork.com/cities/cleveland/)
   * a similar [Cleveland Tech Events](https://twitter.com/clevtechevents)
-* [Tech Week](http://www.techweekneo.com/)
-* [Cleveland Give Camp](clevelandgivecamp.org)
-* [NEXT Ohio](http://www.nextohio.com/)
-* [Entrovation](http://www.entrovation.com/)
+* [Cleveland Give Camp](http://clevelandgivecamp.org)
 * [Classic console and arcade game show](http://www.ccagshow.com/)
 * [Retro Exchange Cleveland](https://www.facebook.com/retroexchangecleveland/)
 * [Stir Trek](http://www.stirtrek.com/)
-* [Tribe hackathon](http://www.tribehackathon.com/)
-* [Cleveland Medical Hackathon](http://clevelandmedicalhackathon.com/)
 * [Dayton Hamvention](http://hamvention.org/)
 * [Cleveland Pinball and Arcade Show](http://clevelandpinballshow.com/Homepage)
 * [Information Security Summit](https://www.informationsecuritysummit.org/), their [Twitter](https://twitter.com/NEOSecSummit)
@@ -571,9 +553,7 @@ And thank you for your help!
 * [GiveBackHack](https://givebackhack.com/cleveland/)
 * [PyCon in Cleveland 2018 and 2019](https://us.pycon.org/)
 * [HAkron](https://hakron.io/)
-* [CLE Housing Hackathon](http://clehousinghack.org/)
 * [Tandy Assembly](http://www.tandyassembly.com/)
-* [Tech Corps Northeast Ohio programs](http://techcorps.org/programs?f[0]=field_location_lookup%253Afield_region%3A49)
 * [Tecmo Cleveland](https://www.tecmocleveland.com/)
 * [The Side Quest](http://www.thesidequestbar.com/) - local nerd bar, not exactly tech but lots of interesting events
 * [Observatory Park](https://www.geaugaparkdistrict.org/parks/observatorypark.shtml) - a Dark Sky park
@@ -581,12 +561,10 @@ And thank you for your help!
 * [TechInvest](https://techinvest.wpengine.com/)
 * [GDEX](https://www.thegdex.com/) - "The Midwest's Premier Gaming Expo"
 * [N.E. Geek Expo](http://www.negeekexpo.com/)
-* [Cleveland Metroparks Hackathon](https://www.clevelandmetroparks.com/hackathon) - redirects to [here](https://www.clevelandmetroparks.com/special-pages/hackathoncleveland)
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/) - YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
 * [NOARSfest](https://www.noars.net/hamfests/noarsfest/) presented by The Northern Ohio Amateur Radio Society
-* [Cleveland Tech Summit](http://cleveland-summit.com/)
 * [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 * [Futureland](https://www.futurelandcle.com/)
 
@@ -635,7 +613,7 @@ And thank you for your help!
 * [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
 * [Ohio To Work](https://ohiotowork.com/)
-* [Remote Masters](https://remotemasters.dev/) with (fully remote)[https://remotemasters.dev/fully-remote-companies] or (remote-first)[https://remotemasters.dev/remote-first-companies] companies and job posts
+* [Remote Masters](https://remotemasters.dev/) with [fully remote](https://remotemasters.dev/fully-remote-companies) or [remote-first](https://remotemasters.dev/remote-first-companies) companies and job posts
 * [DevOps Remote Work](https://devopsremote.work/)
 * [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs)
 * [OhioJobsForAll subreddit](https://www.reddit.com/r/OhioJobsForAll/)
@@ -679,7 +657,7 @@ And thank you for your help!
 * [FlashStarts](http://www.flashstarts.com/)
 * [LeanDog](http://leandog.com/)
 * [Cleveland Leadership](http://www.cleveleads.org/)
-* [BioMotiv ](http://www.biomotiv.com/)
+* [BioMotiv](http://www.biomotiv.com/)
 * [The Bit Factory](http://www.thebitfactory.com/)
 * [Bounce Hub](http://www.bouncehub.org/) - their [Twitter](https://twitter.com/Bounce_Hub)
 * [Prototech](http://magnetprototech.org/)
@@ -702,7 +680,7 @@ And thank you for your help!
 * [Greater Cleveland Partnership](https://www.gcpartnership.com/)
 * [TechGROWTH Ohio](https://twitter.com/techgrowthohio)
 * [Health IT in the CLE](http://hitinthecle.com/)
-* [Benesch 3D Printing Group ](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
+* [Benesch 3D Printing Group](http://www.beneschlaw.com/Additive-Manufacturing-3D-Printing-Industries/) - law firm interested in 3D printing and intellectual property surrounding it
 * [Global Center for Health Innovation](http://www.theglobalcenter.com/)
 * [EDGE](http://www.edgef.org/)
 * [COSE - Council of Smaller Enterprises](http://www.cose.org/)
@@ -765,17 +743,13 @@ And thank you for your help!
   * [Workfrom](https://workfrom.co/)
   * [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
 
-
 ## Other Links
 
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittsburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
 * [345 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application) - some say remote. [site here](http://j-delaney.github.io/easy-application/)
-  * [Computer Science Jobs](https://csjobs.co/) - based on Easy Application
 * [Best Places to Live for Tech Entrepreneurs](http://www.techinsurance.com/resources/best-places-to-live/cleveland-oh/)
 * [NextPlex/Cleveland, OH](http://nextplex.com/cleveland-oh), they post upcoming events on their [Twitter](https://twitter.com/nplexCLE)
-* [Crain's Cleveland Business list of companies that employ software developers](http://www.crainscleveland.com/article/99999999/DATA/500010564/software-developers)
-* [CLK Tech](http://www.clktech.io/)
 * [Cleveland Tech News](https://twitter.com/CleTechNews) - [their site](http://clevelandtechnews.com/), seems inactive for a few months
 * [#cletech](https://twitter.com/hashtag/cletech?f=tweets&vertical=default&src=hash)
 * [#clejobs](https://twitter.com/hashtag/clejobs?f=tweets&vertical=default&src=hash)
