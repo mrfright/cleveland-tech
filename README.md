@@ -180,6 +180,7 @@ And thank you for your help!
 * [FIT Technologies](http://www.fittechnologies.com/)
 * [Fleetmatics](https://www.fleetmatics.com/)
 * [Fleet Response](https://www.fleetresponse.com/about-fr/careers/)
+* [Flexjet](https://www.flexjet.com/)
 * [FormFire](https://www.formfire.com/)
 * [Fortive](https://careers.fortive.com/search-results)
 * [Foundation Software](http://www.foundationsoft.com/)
