@@ -331,6 +331,7 @@ And thank you for your help!
 * [Phenom](http://www.phenom.co/) - possibly no longer active, that site is an empty Heroku app and their Facebook page hasn't been active for almost a year
 * [Philips Medical](http://www.healthcare.philips.com/us_en/)
 * [pixsi](http://www.pixsi.com/)
+* [Playaway](https://playaway.com/life-at-playaway/#join-us)
 * [Pleasant Valley Corporation](http://www.pleasantvalleycorporation.com/employment/) - their [careers page](https://careers.pvcconnect.com/Careers.aspx)
 * [PNC Financial](https://www.pnc.com/) - Strongsville, W130th Operations, Highland Hills - [Careers Page](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=15783&siteid=5130#Location(s)=OH%20-%20Strongsville,OH%20-%20Cleveland,OH%20-%20Highland%20Hills&keyWordSearch=&locationSearch=)
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
