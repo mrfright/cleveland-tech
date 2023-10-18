@@ -294,7 +294,7 @@ And thank you for your help!
 * [New Innovations](https://www.new-innov.com/pub/)
 * [New York Community Bank](https://www.mynycb.com/Pages/home.aspx)
 * [NEXT Internet](http://www.netxinternet.com/)
-* [NK Web Development](http://nkwebdevelopment.com/employment-programmer)
+* [NK Web ](http://nkweb.com/employment-programmer)
 * [Nordson](http://www.nordson.com/en/our-company/careers) - [USA jobs](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers)
 * [Notice Software](http://noticesoftware.com/)
 * [Nottingham Spirk](http://www.nottinghamspirk.com/)
@@ -348,7 +348,7 @@ And thank you for your help!
 * [Ranger Labs](https://rangerlabs.io/)
 * [ReadySet Surgical](https://readysetsurgical.com/)
 * [Realeflow](http://realeflow.com/v2/)
-* [Revature](https://revature.com/careers/?Location=Cleveland%2C+OH&Department=Software+Development&submit=FILTER)
+* [Revature](https://revature.com/careers/?Location=Cleveland%2C+OH&Department=Software+&submit=FILTER)
 * [recess creative](http://www.recesscreative.com/)
 * [Relational Systems](http://winsearch.com/)
 * [remesh.co](http://remesh.co), redirects to [remesh.ai](https://remesh.ai/)
@@ -422,6 +422,7 @@ And thank you for your help!
 * [Turning Technologies](https://www.turningtechnologies.com/) - [international site](http://intl.turningtechnologies.com/)
 * [Twist Creative](http://www.twist-creative.com/)
 * [TWPI-Inc](https://www.twpi-inc.com/)
+* [Ubotica](https://ubotica.com/)
 * [UGottaEat](https://ugottaeat.com/)
 * [Unify Jobs](https://www.unify.jobs/)
 * [Unify Labs](https://www.unifylabs.org/) - formerly Unify Project
@@ -487,7 +488,7 @@ And thank you for your help!
 * [Akron Women in Tech](http://akronwit.org/)
 * [CLE Teen Hacks](https://www.facebook.com/CLETeenHack/) - their [old site](http://cleteenhack.com/) seems to go elsewhere
 * [Cleveland Big Data & Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
-* [Cleveland Cocoaheads (iOS & Mac development)](https://www.meetup.com/Cleveland-CocoaHeads/)
+* [Cleveland Cocoaheads (iOS & Mac )](https://www.meetup.com/Cleveland-CocoaHeads/)
 * [Cleveland Drupal User Group](https://www.meetup.com/cleveland-drupal/)
 * [Cleveland Game Developers](http://clevelandgamedevs.com/) - redirects from [here](clegamedevs.com)
 * [Cleveland Game Co-op](https://twitter.com/clegamecoop)
@@ -639,6 +640,7 @@ And thank you for your help!
 * [Remote Work Junkie](https://jobs.remoteworkjunkie.com/)
 * [Skip the Drive](https://www.skipthedrive.com/)
 * [WellFound](https://wellfound.com/jobs)
+* [Otta](otta.com)
 
 ## Recruiters
 
