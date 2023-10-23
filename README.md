@@ -641,6 +641,7 @@ And thank you for your help!
 * [Skip the Drive](https://www.skipthedrive.com/)
 * [WellFound](https://wellfound.com/jobs)
 * [Otta](otta.com)
+* [Hired](https://hired.com/)
 
 ## Recruiters
 
