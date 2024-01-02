@@ -43,6 +43,7 @@ And thank you for your help!
 * [Accellis](https://accellis.com/)
 * [Acroment](http://www.acroment.com/careers/)
 * [Acumen Solutions](http://www.acumensolutions.com/careers/)
+* [Addo Solutions](http://www.addosolutions.com/)
 * [Aero Fluid Products](http://www.aerofluidproducts.com/)
 * [Affinity](http://www.affinityit.com/)
 * [Agile Blue](https://agileblue.com)
