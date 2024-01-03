@@ -55,7 +55,7 @@ And thank you for your help!
 * [Applied Industrial Technologies](http://web.applied.com/base.cfm?page_id=4658)
 * [Apteryx](http://www.apteryx.com/)
 * [Arhaus](http://www.arhaus.com/)
-* [Aronetics](https://www.aronetics.com/about-us/)
+* [Aronetics](https://www.aronetics.com/company/)
 * [Arras Keathley](http://www.arraskeathley.com/)
 * [Artemis Intelligence](https://www.artemisintel.io/), their [Workable page](https://artemisintel.workable.com/)
 * [ASMGi](https://www.asmgi.com/)
