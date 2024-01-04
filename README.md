@@ -578,6 +578,7 @@ And thank you for your help!
 * [Bounce Hub](http://www.bouncehub.org/) - their [Twitter](https://twitter.com/Bounce_Hub)
 * [Prototech](http://magnetprototech.org/)
 * [MAGNET - Manufacturing Advocacy & Growth Network](https://www.manufacturingsuccess.org/)
+* [Technology for Ohio's Tomorrow](http://tech4ohio.org/)
 * [Cleveland Health-Tech Corridor](http://www.healthtechcorridor.com/)
 * [OHTec](http://ohtec.org/), their [Twitter](https://twitter.com/OHTecOnline)
 * [GLIDE](http://www.glideit.org/)
@@ -633,6 +634,8 @@ And thank you for your help!
   * [Ascom](https://www.ascom.com/north-america/about-us/work-at-ascom/careers/)
   * [Cruise](https://getcruise.com/careers/)
 * Cowork spaces
+  * [ICON Workspace](https://www.iconcowork.com/)
+  * [CUBE Workspace](https://www.cubecleveland.com/getsomeworkdone.html)
   * [SPACES & CO.](http://spacesandco.com/)
   * [Sharedesk](http://www.sharedesk.net/)
   * [Liquid Space Cleveland search](https://liquidspace.com/Search/Index?Address=Cleveland%2C%20OH&Latitude=41.49932&Longitude=-81.6943605&ReservationMethod=NaN&ReservationLengthMinutes=60)
