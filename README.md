@@ -45,6 +45,7 @@ And thank you for your help!
 * [Aero Fluid Products](http://www.aerofluidproducts.com/)
 * [Affinity](http://www.affinityit.com/)
 * [Agile Blue](https://agileblue.com)
+* [Akkodis](https://www.akkodis.com/en-us/careers/job-results?CityFilter=Akron,Cleveland)
 * [Allied Health Media](http://www.alliedhealthmedia.com/)
 * [American Greetings](http://www.americangreetings.com/)
 * [AmTrust](https://amtrustfinancial.com/careers/hiring-process)
@@ -69,6 +70,7 @@ And thank you for your help!
 * [Bear VAI Technology](http://bearvai.com/inc/our_team/career-opportunities/)
 * [because I said I would](http://becauseisaidiwould.com/)
 * [Beegit](https://www.beegit.com/)
+* [Bennett Adelson](https://www.bennettadelson.com/)
 * [Beyond Finance](https://www.beyondfinance.com/careers/jobs/)
 * [Big River](http://www.gobigriver.com/)
 * [Binary Defense Systems](https://www.binarydefense.com/)
@@ -89,6 +91,7 @@ And thank you for your help!
 * [BudgetDumpster](http://www.budgetdumpster.com/)
 * [Buyerquest](http://www.buyerquest.com/)
 * [Capricorn Systems](http://www.capricornsys.com/jobs.html) - jobs like [Embedded C/C++ Programmers](https://www.dice.com/jobs/detail/c8cec17d423b240f2a7eda3b71a0df65?src=32&CMPID=AG_ZR_PD_JS_US_OG_RC_&utm_campaign=Advocacy_Ongoing&utm_medium=Aggregator&utm_source=ZipRecuiter&rx_campaign=ziprecruiter51&rx_group=100954&rx_job=capricor%2Fc8cec17d423b240f2a7eda3b71a0df65&rx_medium=cpc&rx_source=ziprecruiter&zip_cid=53898569-12fd-48d0-9cfa-6c38a7920755) on Dice
+* [Cardinal Commerce](https://www.cardinalcommerce.com/careers)
 * [C by GE](https://www.cbyge.com/)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
 * [Centric Consulting](https://centricconsulting.com/about-us/careers/job-openings/)
@@ -99,6 +102,7 @@ And thank you for your help!
 * [ClickShake games](http://www.clickshakegames.com/)
 * [Cloud CMS](https://www.cloudcms.com/careers.html)
 * [CodeRed](https://www.coderedcorp.com/)
+* [Codesummit](https://codesummit.com/)
 * [Coffee and Code](http://www.coffeeandcode.com/)
 * [Cooknigenie](https://cookingenie.com/)
 * [Company 119](https://www.company119.com/)
@@ -151,6 +155,7 @@ And thank you for your help!
 * [Everstream](http://everstream.net/)
 * [Excellware](http://www.excellware.com/)
 * [Expand Interactive](http://www.expandinteractive.com/)
+* [Expedient](https://www.expedient.com/careers/)
 * [Explorys](http://explorys.com/)
 * [ExportNow](http://exportnow.com/index.html#page-top)
 * [FactCite Lincoln Library Online](https://thelincolnlibrary.com/)
@@ -222,6 +227,7 @@ And thank you for your help!
 * [LeadLift](https://www.leadlift.com/)
 * [Leap Amabassadors Community](https://leapambassadors.org/)
 * [Level Seven](http://www.lvlsvn.com/)
+* [LightSpeed Hosting](https://lightspeedhosting.com/)
 * [Lincoln Electric](https://jobs.lincolnelectric.com/)
 * [LineStream](http://www.linestream.com/default.aspx)
 * [Little Jacket](http://www.little-jacket.com/) - design agency looking to get developers
@@ -284,6 +290,7 @@ And thank you for your help!
 * [Pandata](http://pandata.co/about-us/careers/)
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com) - their [job search](http://parkercareers.ttcportals.com/search/jobs/within/50/miles/of/41.49932/-81.69436050000002?radius=41.49932%2C-81.69436050000002%2C40&ns_location=Cleveland%2C+OH%2C+USA)
+* [Park Place Technologies](http://www.parkplacetechnologies.com/)
 * [PartsSource Inc.](https://www.partssource.com/) - [Current Job Openings](https://corporate.partssource.com/about/careers/current-job-openings-at-partssource/)
 * [Patriot Software](https://www.patriotsoftware.com/about/careers/positions/)
 * [PCC Airfoils](http://www.pccairfoils.com/business_units/mentor/)
@@ -294,12 +301,14 @@ And thank you for your help!
 * [Philips Medical](http://www.healthcare.philips.com/us_en/)
 * [pixsi](http://www.pixsi.com/)
 * [Playaway](https://playaway.com/life-at-playaway/#join-us)
+* [Pleasant Valley Corporation](http://www.pleasantvalleycorporation.com/employment/)
 * [PNC Financial](https://www.pnc.com/) - Strongsville, W130th Operations, Highland Hills - [Careers Page](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=15783&siteid=5130#Location(s)=OH%20-%20Strongsville,OH%20-%20Cleveland,OH%20-%20Highland%20Hills&keyWordSearch=&locationSearch=)
 * [Power Lender](https://www.powerlender.com/)
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
 * [Proformex](https://www.proformex.com/careers)
+* [Progressive](https://www.progressive.com/)
 * [Pulse](http://pulsellc.com/about.html)
 * [Quadax](https://www.linkedin.com/jobs/search?f_C=84705&locationType=Y&trk=careers_promo_module_see_jobs) - their site [here](https://quadax.com/Support/ContactUs.htm)
 * [Randstad](https://www.randstadusa.com/)
@@ -312,6 +321,7 @@ And thank you for your help!
 * [Renovo](http://renovo1.com/)
 * [Resolvit](http://careers.resolvit.com/Home/countryId/1/stateId/OH)
 * [Revenue Conduit](http://revenueconduit.com/)
+* [RIDGID](https://www.ridgid.com/us/en/job-dot-net-mvc-developer)
 * [Robots and Pencils](https://robotsandpencils.com/)
 * [Rockwell Automation](http://www.rockwellautomation.com/rockwellautomation/index.page?)
 * [Root Integration](http://www.rootintegration.com/)
@@ -401,6 +411,7 @@ And thank you for your help!
 * [WeCanCodeIT](https://wecancodeit.org/)
 * [Cleveland Codes](http://www.clevelandcodes.org/) - [tri-c site](http://www.tri-c.edu/programs/information-technology/cleveland-codes/index.html)
 * [Tech Elevator](http://www.techelevator.com/)
+* [Case Western Reserve University Bootcamp](https://bootcamp.case.edu/coding/)
 
 ## Groups
 
@@ -438,6 +449,7 @@ And thank you for your help!
 * [We Make the Internet](https://www.meetup.com/make-the-internet/)
 * [Fresh Lab](http://www.refreshcollective.org/freshlab/) - makerspace for music, clothing
 * [CoolTech Challenge](https://mobile.twitter.com/RITECoolTech) - their site not up?
+* [Northern Ohio Amateur Radio Society](https://www.noars.net/)
 * [Code Youngstown](https://codeyoungstown.com/)
 
 ## Events
@@ -479,6 +491,7 @@ And thank you for your help!
 * [Kent Hack Enough](https://khe.io/) - KSU Hackathon
 * [Hack YSU](http://hackysu.com/) - YSU's annual hackathon
 * [HackerX](https://hackerx.org/) - the world’s largest invite-only networking & recruiting event for developers (one hosted in CL)
+* [NOARSfest](https://www.noars.net/?page_id=137) presented by The Northern Ohio Amateur Radio Society
 * [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 * [Futureland](https://www.futurelandcle.com/)
 
