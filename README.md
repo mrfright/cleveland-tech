@@ -38,6 +38,7 @@ And thank you for your help!
 * [41n.io](http://www.41n.io/)
 * [42connect](https://www.42connect.com/)
 * [7signal](http://7signal.com/)
+* [ABB](https://careers.abb/global/en/search-results?keywords=Cleveland)
 * [Accellis](https://accellis.com/)
 * [Acroment](http://www.acroment.com/careers/)
 * [Addo Solutions](http://www.addosolutions.com/careers)
@@ -47,8 +48,11 @@ And thank you for your help!
 * [Allied Health Media](http://www.alliedhealthmedia.com/)
 * [American Greetings](http://www.americangreetings.com/)
 * [AmTrust](https://amtrustfinancial.com/careers/hiring-process)
+* [Aperture](https://aperture.ai/)
+* [Applied Industrial Technologies](https://jobs.applied.com/us/en)
 * [Apteryx](http://www.apteryx.com/)
 * [Arhaus](http://www.arhaus.com/)
+* [Aronetics](https://www.aronetics.com/company/join-us/)
 * [Arras Keathley](http://www.arraskeathley.com/)
 * [ASMGi](https://www.asmgi.com/)
 * [Assurant Labs](https://www.assurantlabs.com/careers/)
@@ -291,6 +295,7 @@ And thank you for your help!
 * [pixsi](http://www.pixsi.com/)
 * [Playaway](https://playaway.com/life-at-playaway/#join-us)
 * [PNC Financial](https://www.pnc.com/) - Strongsville, W130th Operations, Highland Hills - [Careers Page](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=15783&siteid=5130#Location(s)=OH%20-%20Strongsville,OH%20-%20Cleveland,OH%20-%20Highland%20Hills&keyWordSearch=&locationSearch=)
+* [Power Lender](https://www.powerlender.com/)
 * [Pointe Blank Solutions](http://www.pointeblank.net/)
 * [PreEmptive Solutions](https://www.preemptive.com/)
 * [Prentke Romich Company (PRC)](http://www.prentrom.com/)
@@ -511,6 +516,7 @@ And thank you for your help!
 * [Adafruit Jobs Board](https://jobs.adafruit.com/)
 * [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
+* [Ohio To Work](https://www.findyourohio.com/)
 * [DevOps Remote Work](https://devopsremote.work/)
 * [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs)
 * [OhioJobsForAll subreddit](https://www.reddit.com/r/OhioJobsForAll/)
@@ -530,6 +536,7 @@ And thank you for your help!
 * [Underdog.io](https://underdog.io/)
 * [Remote Work Junkie](https://jobs.remoteworkjunkie.com/)
 * [Skip the Drive](https://www.skipthedrive.com/)
+* [WellFound](https://wellfound.com/jobs)
 * [Otta](otta.com)
 * [Hired](https://hired.com/)
 
@@ -544,6 +551,7 @@ And thank you for your help!
 
 ## Business Development
 
+* [NorTech](https://northeastohioregion.com/)
 * [think[box]](http://engineering.case.edu/thinkbox/)
 * [LaunchHouse](http://www.launchhouse.com/)
 * [Early Stage Partners](http://www.esplp.com/)
@@ -564,6 +572,7 @@ And thank you for your help!
 * [Launch League](http://www.launchleague.org/)
 * [VentureOhio](http://www.ventureohio.org/)
 * [TechOhio](https://weare.techohio.ohio.gov/)
+* [Ohio Third Frontier](https://development.ohio.gov/bs_thirdfrontier/)
 * [The Medical Capital](http://www.themedicalcapital.com/)
 * [Greater Cleveland Partnership](https://www.gcpartnership.com/)
 * [TechGROWTH Ohio](https://twitter.com/techgrowthohio)
@@ -592,6 +601,7 @@ And thank you for your help!
 * [askadev](http://www.askadev.com/)
 * [LanceList](http://www.lancelist.com/#)
 * [Meeet](http://beta.meeet.co/)
+* [upwork](https://www.upwork.com/)
 * [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 
 ## Remote Working
