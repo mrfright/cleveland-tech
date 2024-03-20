@@ -402,6 +402,7 @@ And thank you for your help!
 * [Within3](http://www.within3.com/home.aspx)
 * [WM Software](http://www.wmsoftware.com/)
 * [WTWH Media](http://www.wtwhmedia.com/)
+* [Xadite](https://www.xadite.com/)
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
 * [Zin Technologies](http://www.zin-tech.com/)
 * [Zircoa](http://www.zircoa.com/index.html)
