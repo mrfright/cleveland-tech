@@ -74,6 +74,7 @@ And thank you for your help!
 * [Beyond Finance](https://www.beyondfinance.com/careers/jobs/)
 * [Big River](http://www.gobigriver.com/)
 * [Binary Defense Systems](https://www.binarydefense.com/)
+* [Bird RF](https://birdrf.com/AboutUs/Careers.aspx)
 * [Blackbird Digital](https://blackbird.digital/contact-us/)
 * [BlueBridge Networks](http://www.bluebridgenetworks.com/)
 * [Blue Chip Consulting](https://www.bluechip-llc.com/)
