@@ -96,6 +96,7 @@ And thank you for your help!
 * [C by GE](https://www.cbyge.com/)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
 * [Centric Consulting](https://centricconsulting.com/about-us/careers/job-openings/)
+* [CHAMP Titles](https://www.champtitles.com/open-positions/) - job postings on [LinkedIn](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A33222757&keywords=champ%20titles&origin=RICH_QUERY_SUGGESTION&position=0&searchId=4c9aeb30-d257-462a-847d-bc90e83b936e&sid=j)%40&spellCorrectionEnabled=false#:~:text=On%20this%20page-,Jobs,-Posts)
 * [Circle Prime Manufacturing](http://www.circleprime.com/)
 * [Class6ix](class6ix.com)
 * [Cleveland Clinic](http://jobs.clevelandclinic.org/)
