@@ -96,7 +96,7 @@ And thank you for your help!
 * [C by GE](https://www.cbyge.com/)
 * [Centerline Biomedical](http://www.centerlinebiomedical.com/)
 * [Centric Consulting](https://centricconsulting.com/about-us/careers/job-openings/)
-* [CHAMP Titles](https://www.champtitles.com/open-positions/) - job postings on [LinkedIn](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A33222757&keywords=champ%20titles&origin=RICH_QUERY_SUGGESTION&position=0&searchId=4c9aeb30-d257-462a-847d-bc90e83b936e&sid=j)%40&spellCorrectionEnabled=false#:~:text=On%20this%20page-,Jobs,-Posts)
+* [CHAMP Titles](https://www.champtitles.com/open-positions/) - job postings on [LinkedIn](https://www.linkedin.com/company/champtitles/jobs/)
 * [Circle Prime Manufacturing](http://www.circleprime.com/)
 * [Class6ix](class6ix.com)
 * [Cleveland Clinic](http://jobs.clevelandclinic.org/)
@@ -288,7 +288,6 @@ And thank you for your help!
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
 * [OverDrive](https://www.overdrive.com/) - their [careers page](https://company.overdrive.com/careers/)
-  * [CHAMPTitles](https://www.champtitles.com/) - car titles on the blockchain
 * [Pandata](http://pandata.co/about-us/careers/)
 * [Paragon](http://www.paragon-inc.com/)
 * [Parker Hannifin](http://parker.com) - their [job search](http://parkercareers.ttcportals.com/search/jobs/within/50/miles/of/41.49932/-81.69436050000002?radius=41.49932%2C-81.69436050000002%2C40&ns_location=Cleveland%2C+OH%2C+USA)
