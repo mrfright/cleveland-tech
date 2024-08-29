@@ -327,6 +327,7 @@ And thank you for your help!
 * [Rockwell Automation](http://www.rockwellautomation.com/rockwellautomation/index.page?)
 * [Root Integration](http://www.rootintegration.com/)
 * [Roundtable](http://www.roundtablelearning.com/)
+* [Rovisys](https://www.rovisys.com/careers/)
 * [RPM](http://www.rpminc.com/)
 * [RVshare](https://rvshare.com/), job posts on [AngelList](https://angel.co/rvshare/)
 * [SapientRazorfish_](http://www.sapientrazorfish.com/), formerly [Rosetta](https://www.rosetta.com). Rosetta was acquired by two companies(Sapient and Razorfish) who merged into one.
