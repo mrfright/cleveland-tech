@@ -408,6 +408,7 @@ And thank you for your help!
 * [Yardi](http://www.yardi.com/about-us/career-opportunities/?jobKeywords=*&jobOffice=Cleveland)
 * [Zin Technologies](http://www.zin-tech.com/)
 * [Zircoa](http://www.zircoa.com/index.html)
+* [Zivian Health](https://www.zivianhealth.com/)
 
 ## Coding Bootcamps
 
