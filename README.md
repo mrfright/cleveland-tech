@@ -501,7 +501,7 @@ And thank you for your help!
 ## Job Search Sites
 
 * [Cleveland Career Board](http://cleveland.careerboard.com/)
-* [GeekWork](geekwork.com)
+* [GeekWire](https://www.geekwire.com/jobs/)
 * [Indeed](http://www.indeed.com/) - IT Hare made a [programmer or developer filter](http://ithare.com/recent-software-jobs/?q=(programmer+or+developer)) for Indeed
 * [Ohio unemployment](https://unemployment.ohio.gov/)
 * [Employment connection](http://www.employmentconnection.us/)
@@ -509,27 +509,23 @@ And thank you for your help!
 * [Dice](https://www.dice.com/jobs?q=&l=Cleveland%2C+OH)
 * [HireArt](https://www.hireart.com/)
 * [the muse](http://www.themuse.com/)
-* [Experis](experis.us)
 * [We Work Remotely](https://weworkremotely.com/)
 * [RecruitCoders](http://recruitcoders.com/)
 * [Technical Search Consultants](http://www.tscohio.com/)
-* [Workshape.io](http://www.workshape.io/)
-* [hacker.surf](http://hacker.surf/)
 * [Old Geek Jobs](https://oldgeekjobs.com/)
-* [remote ok](https://remoteok.io)
-* [Remote Working](http://www.remoteworking.co/)
+* [remote ok](https://remoteok.com/)
 * [Hacker News: Who is hiring?](https://news.ycombinator.com/submitted?id=whoishiring) - beginning of each month they have Who's Hiring/Who's Looking to be Hired posts
   * [Search this month's 'Who is hiring?' thread](https://hnjobs.emilburzo.com/#ohio)
   * [HN Hiring](http://hnhiring.me/) - source [here](https://github.com/mwylde/hnhiring)
 * [USAJOBS](https://www.usajobs.gov/Search/?keyword=&Location=Cleveland%2C+Ohio&AutoCompleteSelected=true) - government job search site, including Cleveland NASA jobs
-* [untapt](https://www.untapt.com/)
+* [Untapped](https://www.untapped.io/)
 * [AngelList Cleveland Startup Jobs](https://angel.co/cleveland/jobs)
 * [whoishiring.io](https://whoishiring.io/search/41.498/-81.708/9/)
 * [WorkinTech.io](http://workintech.io/)
 * [Free and Open Source Jobs](https://www.fossjobs.net/)
 * [JumpStart Jobs Site](http://www.jumpstartinc.org/talent/job-seekers/)
 * [Find.jobs](https://find.jobs/)
-* [Adafruit Jobs Board](https://jobs.adafruit.com/)
+* [Adafruit Jobs Board](https://www.adafruit.com/careers)
 * [JumpStart client job search](https://jumpstartinc.secure.force.com/careers)
 * [OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx)
 * [Ohio To Work](https://www.findyourohio.com/)
@@ -557,6 +553,7 @@ And thank you for your help!
 * [Hired](https://hired.com/)
 * [Space Crew](https://spacecrew.com/)
 * [Ohio Tech Job Search](https://jobs.ohiox.org/jobs)
+* [Benture](https://benture.io/)
 
 ## Recruiters
 
