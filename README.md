@@ -497,6 +497,7 @@ And thank you for your help!
 * [NOARSfest](https://www.noars.net/?page_id=137) presented by The Northern Ohio Amateur Radio Society
 * [CWRU [You]Tech Conference](https://case.edu/utech/youtech-conference-2019)
 * [Futureland](https://www.futurelandcle.com/)
+* [Scrapyard Cleveland](https://scrapyardcle.org/)
 
 ## Job Search Sites
 
