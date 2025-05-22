@@ -651,6 +651,7 @@ And thank you for your help!
   * [Nomadlist](http://nomadlist.io/)
   * [Workfrom](https://workfrom.co/)
   * [Remote Stash](http://remotestash.co/) "A hand-picked directory of the best free resources for remote workers and nomads."
+  * [Remote Work, 2025 edition](https://taffer.ca/posts/2025/remote/) - a site with remote work resources such as search sites and remote-first companies
 
 ## Other Links
 
