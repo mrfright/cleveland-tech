@@ -43,6 +43,7 @@ And thank you for your help!
 * [Acroment](http://www.acroment.com/careers/)
 * [Addo Solutions](http://www.addosolutions.com/careers)
 * [Aero Fluid Products](http://www.aerofluidproducts.com/)
+* [Afference](https://www.afference.io/)
 * [Affinity](http://www.affinityit.com/)
 * [Agile Blue](https://agileblue.com)
 * [Akkodis](https://www.akkodis.com/en-us/careers/job-results?CityFilter=Akron,Cleveland)
